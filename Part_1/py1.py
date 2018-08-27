@@ -1,5 +1,5 @@
 """
-表示记录
+表示记录:
 """
 # 使用List
 bob = ['Bob Smith', 42, 30000, 'software']
