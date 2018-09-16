@@ -50,5 +50,7 @@ def outer(A):
 
 
 func = outer(12)
-res = func(12)
+
+res = func(13)  # ---> inner(13)
+
 print(res)
