@@ -26,8 +26,8 @@ Cost = 0
 def buy():
     # 输入卡内余额
     global Balance
-
     Balance = input("请输入您的卡内余额:").strip()
+
     if Balance.isnumeric():
         Balance = int(Balance)
     else:
@@ -39,7 +39,7 @@ def buy():
 
     # 打印商品信息
     product_info = ""
-    for num in sorted(list(Products)):
+    for num in sorted(Products.keys()):
         product_info += str(num) + " " + Products[num][0] + " " + str(Products[num][1]) + "\n"
 
     tips = "输入0退出\n"
@@ -47,7 +47,7 @@ def buy():
     # 定义底端显示
     bottom_info = "%s" % ("=" * len(head_info))
 
-    # 欢迎消息
+    # 打印所有消息
     info = head_info + product_info + tips + bottom_info
     print(info)
 

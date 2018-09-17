@@ -5,7 +5,7 @@ import sys
 
 
 def register():
-    name = input("请输入一个用户名:").strip()
+    name = input("请输入一个用户名:")
 
     # 读取数据库信息，为后面检测用户提供比对信息
     try:
@@ -14,6 +14,10 @@ def register():
             # print(users_dict)
     except Exception:
         users_dict = {}
+
+    if name == "" or " " in name:
+        print("用户名有非法字符，请重新输入！")
+        register()
 
     # 与数据库信息比对，检测用户名是否被占用
     if name in users_dict.keys():
@@ -24,11 +28,11 @@ def register():
         """
         检验密码
         """
-        passwd = input("请输入您的密码:").strip()
+        passwd = input("请输入您的密码:")
 
         # 检测密码格式是否正确和2次密码是否一致
-        if passwd.isnumeric():
-            passwd_confir = input("请确认您的密码:").strip()
+        if passwd.isalnum() and " " not in passwd:
+            passwd_confir = input("请确认您的密码:")
 
             # 2次密码是否一致
             if passwd == passwd_confir:
