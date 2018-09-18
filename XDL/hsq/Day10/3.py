@@ -7,7 +7,7 @@ def outer(func):
     """
     print("1This is outer function\n", outer.__name__, outer.__doc__)
 
-    @wraps(func)
+    # @wraps(func)
     def inner():
         """
         2.This is inner function doc
@@ -26,6 +26,6 @@ def custom_func():
     print("3This is custom function\n", custom_func.__name__, custom_func.__doc__)
 
 
-custom_func()
+custom_func()  # outer(custom_func)()
 print("#########################")
 print(custom_func.__name__, custom_func.__doc__)
