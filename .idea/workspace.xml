@@ -1,0 +1,1105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b60cb87d-1553-4c34-808c-501125b29ad6" name="Default Changelist" comment="笔记" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/programming_python$Py__1_.coverage" NAME="查找Py文件 (1) Coverage Results" MODIFIED="1537180891529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/作业(2018-9-13)" />
+    <SUITE FILE_PATH="coverage/programming_python$tkinter001.coverage" NAME="tkinter001 Coverage Results" MODIFIED="1536420314074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_1" />
+    <SUITE FILE_PATH="coverage/programming_python$gui3e.coverage" NAME="gui3e Coverage Results" MODIFIED="1536753556340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_7" />
+    <SUITE FILE_PATH="coverage/programming_python$123.coverage" NAME="123 Coverage Results" MODIFIED="1537179772271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL" />
+    <SUITE FILE_PATH="coverage/programming_python$123__1_.coverage" NAME="123 (1) Coverage Results" MODIFIED="1536551084996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL" />
+    <SUITE FILE_PATH="coverage/programming_python$update_db_shelve.coverage" NAME="update_db_shelve Coverage Results" MODIFIED="1535441919294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_1" />
+    <SUITE FILE_PATH="coverage/programming_python$dump_db_shelve.coverage" NAME="dump_db_shelve Coverage Results" MODIFIED="1535441926757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_1" />
+    <SUITE FILE_PATH="coverage/programming_python$make_db_classes.coverage" NAME="make_db_classes Coverage Results" MODIFIED="1535806853446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_1" />
+    <SUITE FILE_PATH="coverage/programming_python$.coverage" NAME="作业 Coverage Results" MODIFIED="1536897065281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/Day08" />
+    <SUITE FILE_PATH="coverage/programming_python$initdata.coverage" NAME="initdata Coverage Results" MODIFIED="1535440280273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_1" />
+    <SUITE FILE_PATH="coverage/programming_python$Day08.coverage" NAME="Day08 Coverage Results" MODIFIED="1536896237658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq" />
+    <SUITE FILE_PATH="coverage/programming_python$py2.coverage" NAME="py2 Coverage Results" MODIFIED="1535437643991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_1" />
+    <SUITE FILE_PATH="coverage/programming_python$login.coverage" NAME="login Coverage Results" MODIFIED="1537236610497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/Day09" />
+    <SUITE FILE_PATH="coverage/programming_python$gun.coverage" NAME="gun Coverage Results" MODIFIED="1537347052650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/Day11" />
+    <SUITE FILE_PATH="coverage/programming_python$update_db_classes.coverage" NAME="update_db_classes Coverage Results" MODIFIED="1535807248625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_1" />
+    <SUITE FILE_PATH="coverage/programming_python$dump_db_classes.coverage" NAME="dump_db_classes Coverage Results" MODIFIED="1535807253416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_1" />
+    <SUITE FILE_PATH="coverage/programming_python$3.coverage" NAME="3 Coverage Results" MODIFIED="1537323345297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/Day11" />
+    <SUITE FILE_PATH="coverage/programming_python$gui1f.coverage" NAME="gui1f Coverage Results" MODIFIED="1536575857433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_7" />
+    <SUITE FILE_PATH="coverage/programming_python$gui5.coverage" NAME="gui5 Coverage Results" MODIFIED="1536757716824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_7" />
+    <SUITE FILE_PATH="coverage/programming_python$dlg1_pyw.coverage" NAME="dlg1.pyw Coverage Results" MODIFIED="1537271003955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_8" />
+    <SUITE FILE_PATH="coverage/programming_python$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1537341868958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/Day11" />
+    <SUITE FILE_PATH="coverage/programming_python$1__1_.coverage" NAME="1 (1) Coverage Results" MODIFIED="1537333201899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/Day11" />
+    <SUITE FILE_PATH="coverage/programming_python$gui1c.coverage" NAME="gui1c Coverage Results" MODIFIED="1536573720123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_7" />
+    <SUITE FILE_PATH="coverage/programming_python$person_start.coverage" NAME="person_start Coverage Results" MODIFIED="1535443414190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_1" />
+    <SUITE FILE_PATH="coverage/programming_python$2__1_.coverage" NAME="2 (1) Coverage Results" MODIFIED="1537356251219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/Day04" />
+    <SUITE FILE_PATH="coverage/programming_python$main.coverage" NAME="main Coverage Results" MODIFIED="1537347056461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/Day11" />
+    <SUITE FILE_PATH="coverage/programming_python$4.coverage" NAME="4 Coverage Results" MODIFIED="1536557752344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/黄少奇/Day04" />
+    <SUITE FILE_PATH="coverage/programming_python$gui1g.coverage" NAME="gui1g Coverage Results" MODIFIED="1536576244161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_7" />
+    <SUITE FILE_PATH="coverage/programming_python$gui4.coverage" NAME="gui4 Coverage Results" MODIFIED="1536757732523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_7" />
+    <SUITE FILE_PATH="coverage/programming_python$register__1_.coverage" NAME="register (1) Coverage Results" MODIFIED="1537151293942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/Day09" />
+    <SUITE FILE_PATH="coverage/programming_python$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1536128550509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_code" />
+    <SUITE FILE_PATH="coverage/programming_python$tkinter101.coverage" NAME="tkinter101 Coverage Results" MODIFIED="1536420550203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_1" />
+    <SUITE FILE_PATH="coverage/programming_python$config_button.coverage" NAME="config_button Coverage Results" MODIFIED="1537188840074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_8" />
+    <SUITE FILE_PATH="coverage/programming_python$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1536808063309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL" />
+    <SUITE FILE_PATH="coverage/programming_python$buy.coverage" NAME="buy Coverage Results" MODIFIED="1537235306012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/Day09" />
+    <SUITE FILE_PATH="coverage/programming_python$gui1e.coverage" NAME="gui1e Coverage Results" MODIFIED="1536575357721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_7" />
+    <SUITE FILE_PATH="coverage/programming_python$2.coverage" NAME="2 Coverage Results" MODIFIED="1537339161806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/Day11" />
+    <SUITE FILE_PATH="coverage/programming_python$Py.coverage" NAME="查找Py文件 Coverage Results" MODIFIED="1537172191344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/Day08" />
+    <SUITE FILE_PATH="coverage/programming_python$config_label.coverage" NAME="config_label Coverage Results" MODIFIED="1537188168795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_8" />
+    <SUITE FILE_PATH="coverage/programming_python$toplevel2.coverage" NAME="toplevel2 Coverage Results" MODIFIED="1537272788979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_8" />
+    <SUITE FILE_PATH="coverage/programming_python$gui3.coverage" NAME="gui3 Coverage Results" MODIFIED="1536747857089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_7" />
+    <SUITE FILE_PATH="coverage/programming_python$gui6.coverage" NAME="gui6 Coverage Results" MODIFIED="1536810078222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_7" />
+    <SUITE FILE_PATH="coverage/programming_python$update_db_pickle.coverage" NAME="update_db_pickle Coverage Results" MODIFIED="1535441080540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_1" />
+    <SUITE FILE_PATH="coverage/programming_python$5.coverage" NAME="5 Coverage Results" MODIFIED="1536558658715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/黄少奇/Day04" />
+    <SUITE FILE_PATH="coverage/programming_python$quitter.coverage" NAME="quitter Coverage Results" MODIFIED="1537272724195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_8" />
+    <SUITE FILE_PATH="coverage/programming_python$1233.coverage" NAME="1233 Coverage Results" MODIFIED="1536551885463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL" />
+    <SUITE FILE_PATH="coverage/programming_python$gui5b.coverage" NAME="gui5b Coverage Results" MODIFIED="1536757684466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_7" />
+    <SUITE FILE_PATH="coverage/programming_python$1__2_.coverage" NAME="1 (2) Coverage Results" MODIFIED="1536735840997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/黄少奇/Day06" />
+    <SUITE FILE_PATH="coverage/programming_python$gui3d.coverage" NAME="gui3d Coverage Results" MODIFIED="1536752901725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_7" />
+    <SUITE FILE_PATH="coverage/programming_python$make_db_shelve.coverage" NAME="make_db_shelve Coverage Results" MODIFIED="1535441517846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_1" />
+    <SUITE FILE_PATH="coverage/programming_python$test.coverage" NAME="test Coverage Results" MODIFIED="1536671652129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL" />
+    <SUITE FILE_PATH="coverage/programming_python$gui2.coverage" NAME="gui2 Coverage Results" MODIFIED="1536577237992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_7" />
+    <SUITE FILE_PATH="coverage/programming_python$gui2b.coverage" NAME="gui2b Coverage Results" MODIFIED="1536577630355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_7" />
+    <SUITE FILE_PATH="coverage/programming_python$person_alteernative.coverage" NAME="person_alteernative Coverage Results" MODIFIED="1535806086712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_1" />
+    <SUITE FILE_PATH="coverage/programming_python$py1.coverage" NAME="py1 Coverage Results" MODIFIED="1535385813774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_1" />
+    <SUITE FILE_PATH="coverage/programming_python$gui6b.coverage" NAME="gui6b Coverage Results" MODIFIED="1536810657725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_7" />
+    <SUITE FILE_PATH="coverage/programming_python$gui3c.coverage" NAME="gui3c Coverage Results" MODIFIED="1536752527201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_7" />
+    <SUITE FILE_PATH="coverage/programming_python$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1537348770720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/Day11" />
+    <SUITE FILE_PATH="coverage/programming_python$dump_db_pickle.coverage" NAME="dump_db_pickle Coverage Results" MODIFIED="1535441098671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_1" />
+    <SUITE FILE_PATH="coverage/programming_python$attachgui.coverage" NAME="attachgui Coverage Results" MODIFIED="1536421011852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_1" />
+    <SUITE FILE_PATH="coverage/programming_python$gui1.coverage" NAME="gui1 Coverage Results" MODIFIED="1536485031986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_7" />
+    <SUITE FILE_PATH="coverage/programming_python$buy__1_.coverage" NAME="buy (1) Coverage Results" MODIFIED="1537171112252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/Day09" />
+    <SUITE FILE_PATH="coverage/programming_python$1.coverage" NAME="1 Coverage Results" MODIFIED="1537322784604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/test_py" />
+    <SUITE FILE_PATH="coverage/programming_python$make_db_pickle.coverage" NAME="make_db_pickle Coverage Results" MODIFIED="1535440637673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_1" />
+    <SUITE FILE_PATH="coverage/programming_python$register.coverage" NAME="register Coverage Results" MODIFIED="1537236595174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/Day09" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1572081265">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="34" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="13" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="4" />
+          <entry key="project.open.time.9" value="9" />
+          <entry key="project.opened" value="34" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="9470" />
+          <entry key="dummy" value="53" />
+          <entry key="py" value="29161" />
+          <entry key="txt" value="481" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="534" />
+          <entry key="Python" value="38631" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="md" value="6" />
+          <entry key="py" value="265" />
+          <entry key="txt" value="29" />
+          <entry key="字符串格式化" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="6" />
+          <entry key="PLAIN_TEXT" value="30" />
+          <entry key="Python" value="265" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="programming_python" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/XDL/hsq/Day12/1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="huangshaoqi &lt;290678391@qq.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/XDL/1.py" />
+        <option value="$PROJECT_DIR$/Part_7/gui3c.py" />
+        <option value="$PROJECT_DIR$/Part_7/gui3d.py" />
+        <option value="$PROJECT_DIR$/Part_7/gui3e.py" />
+        <option value="$PROJECT_DIR$/Part_7/gui5.py" />
+        <option value="$PROJECT_DIR$/Part_7/gui4.py" />
+        <option value="$PROJECT_DIR$/XDL/黄少奇/Day06/1.py" />
+        <option value="$PROJECT_DIR$/XDL/黄少奇/Day06/3.py" />
+        <option value="$PROJECT_DIR$/Part_7/gui5b.py" />
+        <option value="$PROJECT_DIR$/XDL/test1.py" />
+        <option value="$PROJECT_DIR$/Part_7/gui6.py" />
+        <option value="$PROJECT_DIR$/Part_7/gui6b.py" />
+        <option value="$PROJECT_DIR$/XDL/黄少奇/Day07/1.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/Day05/1.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/作业(2018-9-13)/login.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/Day07/1.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/Day08.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/Day08/1.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/Day08/作业.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/作业(2018-9-13)/register.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/Day09/register.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/作业(2018-9-13)/buy.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/Day09/buy.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/Day08/查找Py文件.py" />
+        <option value="$PROJECT_DIR$/XDL/123.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/作业(2018-9-13)/查找Py文件.py" />
+        <option value="$PROJECT_DIR$/Part_8/config_label.py" />
+        <option value="$PROJECT_DIR$/Part_8/config_button.py" />
+        <option value="$PROJECT_DIR$/代码收藏/time时间转换.txt" />
+        <option value="$PROJECT_DIR$/XDL/hsq/Day09/login.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/Day10/1.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/Day10/2.py" />
+        <option value="$PROJECT_DIR$/Part_8/1.py" />
+        <option value="$PROJECT_DIR$/Part_8/toplevel2.py" />
+        <option value="$PROJECT_DIR$/Part_8/dlg1.pyw.py" />
+        <option value="$PROJECT_DIR$/Part_8/quitter.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/Day10/3.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/test_py/1.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/Day11/3.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/Day11/1.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/Day11/2.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/Day11/demo2.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/Day11/demo.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/Day11/Buttlet.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/Day11/bullet.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/Day11/Person.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/Day11/main.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/Day11/person.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/Day11/gun.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/Day11/demo1.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/Day12/1.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="26" />
+    <option name="y" value="38" />
+    <option name="width" value="2762" />
+    <option name="height" value="1790" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="programming_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="programming_python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="programming_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="programming_python" type="462c0819:PsiDirectoryNode" />
+              <item name="XDL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="programming_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="programming_python" type="462c0819:PsiDirectoryNode" />
+              <item name="XDL" type="462c0819:PsiDirectoryNode" />
+              <item name="hsq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="programming_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="programming_python" type="462c0819:PsiDirectoryNode" />
+              <item name="XDL" type="462c0819:PsiDirectoryNode" />
+              <item name="hsq" type="462c0819:PsiDirectoryNode" />
+              <item name="Day12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="programming_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/Program Files/R/R-3.5.1/bin/R.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\工作\Code\programming_python\Part_8" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\工作\Code\programming_python\笔记" />
+      <recent name="C:\工作\Code\programming_python\XDL\hsq\test_py" />
+      <recent name="C:\工作\Code\programming_python\XDL\hsq\Day08" />
+      <recent name="C:\工作\Code\programming_python\XDL\hsq\作业(2018-9-13)" />
+      <recent name="C:\工作\Code\programming_python\代码收藏" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.2 (1)">
+    <configuration name="2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="programming_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/XDL/hsq/Day04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XDL/hsq/Day04/2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="programming_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/XDL/hsq/Day11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XDL/hsq/Day11/demo1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="programming_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/XDL/hsq/Day11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XDL/hsq/Day11/demo2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gun" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="programming_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/XDL/hsq/Day11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XDL/hsq/Day11/gun.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="programming_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/XDL/hsq/Day11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XDL/hsq/Day11/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.demo1" />
+      <item itemvalue="Python.demo2" />
+      <item itemvalue="Python.gun" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.2 (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.2 (1)" />
+        <item itemvalue="Python.demo1" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.gun" />
+        <item itemvalue="Python.demo2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\hsq10\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b60cb87d-1553-4c34-808c-501125b29ad6" name="Default Changelist" comment="" />
+      <created>1535383582789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535383582789</updated>
+    </task>
+    <task id="LOCAL-00001" summary="表示记录1">
+      <created>1535386189702</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1535386189702</updated>
+    </task>
+    <task id="LOCAL-00002" summary="表示记录1">
+      <created>1535387085876</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1535387085876</updated>
+    </task>
+    <task id="LOCAL-00003" summary="pickle、shelve简单应用">
+      <created>1535451838195</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1535451838195</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Class 继承，重构行为">
+      <created>1535806244140</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1535806244140</updated>
+    </task>
+    <task id="LOCAL-00005" summary="class与shelve结合，增加持久化">
+      <created>1535807387902</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1535807387902</updated>
+    </task>
+    <task id="LOCAL-00006" summary="class与shelve结合，增加持久化">
+      <created>1536828345448</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1536828345448</updated>
+    </task>
+    <task id="LOCAL-00007" summary="学习笔记">
+      <created>1537082103339</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1537082103339</updated>
+    </task>
+    <task id="LOCAL-00008" summary="增加笔记">
+      <created>1537084575151</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1537084575151</updated>
+    </task>
+    <task id="LOCAL-00009" summary="作业讲解">
+      <created>1537167485668</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1537167485668</updated>
+    </task>
+    <task id="LOCAL-00010" summary="作业讲解">
+      <created>1537181481038</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1537181481038</updated>
+    </task>
+    <task id="LOCAL-00011" summary="2019-9-18">
+      <created>1537266460814</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1537266460814</updated>
+    </task>
+    <task id="LOCAL-00012" summary="GUI学习之旅">
+      <created>1537274877185</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1537274877185</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1381" height="895" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="top" x="1" y="23" width="1367" height="859" id="Python Console" order="0" type="WINDOWED" weight="0.6448231" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.58164644" visible="true" weight="0.20937264" />
+      <window_info id="Structure" order="1" sideWeight="0.41778976" side_tool="true" weight="0.22524565" />
+      <window_info id="Favorites" order="2" sideWeight="0.41546527" side_tool="true" weight="0.19803476" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32896462" />
+      <window_info anchor="bottom" x="-16" y="349" width="1299" height="333" id="Run" order="2" sideWeight="0.4988662" weight="0.26585695" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2277628" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32896462" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4988662" weight="0.33468285" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5011338" side_tool="true" weight="0.19002695" />
+      <window_info active="true" anchor="bottom" id="Concurrent Activities Diagram" order="11" weight="0.32896462" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32749325" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32955405" />
+      <window_info anchor="right" id="R Graphics" order="4" weight="0.32955405" />
+      <window_info anchor="right" id="R Packages" order="5" weight="0.32955405" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32955405" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="top" x="711" y="29" width="1367" height="859" id="Python Console" order="0" type="WINDOWED" weight="0.6448231" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.58164644" visible="true" weight="0.20181406" />
+      <window_info id="Structure" order="1" sideWeight="0.41778976" side_tool="true" weight="0.22524565" />
+      <window_info id="Favorites" order="2" sideWeight="0.41546527" side_tool="true" weight="0.19803476" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32896462" />
+      <window_info anchor="bottom" x="-16" y="349" width="1299" height="333" id="Run" order="2" weight="0.5573549" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38326585" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32896462" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32793522" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32928476" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32793522" />
+      <window_info active="true" anchor="bottom" id="Concurrent Activities Diagram" order="12" weight="0.32896462" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32955405" />
+      <window_info anchor="right" id="R Graphics" order="4" weight="0.32955405" />
+      <window_info anchor="right" id="R Packages" order="5" weight="0.32955405" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32955405" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="表示记录1" />
+    <MESSAGE value="pickle、shelve简单应用" />
+    <MESSAGE value="Class 继承，重构行为" />
+    <MESSAGE value="class与shelve结合，增加持久化" />
+    <MESSAGE value="学习笔记" />
+    <MESSAGE value="增加笔记" />
+    <MESSAGE value="作业讲解" />
+    <MESSAGE value="2019-9-18" />
+    <MESSAGE value="GUI学习之旅" />
+    <MESSAGE value="面向对象1" />
+    <option name="LAST_COMMIT_MESSAGE" value="面向对象1" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Part_7/gui4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day04/3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part_7/gui5b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part_7/gui6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/pickle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="1574" column="17" selection-start-line="1574" selection-start-column="17" selection-end-line="1574" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day05/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day05/2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day07/1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/作业(2018-9-13)/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/代码收藏/os模块.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="164" column="33" selection-start-line="164" selection-start-column="25" selection-end-line="164" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day08/作业.py" />
+    <entry file="file://$PROJECT_DIR$/笔记/day5.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔记/day1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔记/day9.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔记/day11.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/作业(2018-9-13)/register.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/笔记/day12.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day09/userinfo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/test.py" />
+    <entry file="file://$PROJECT_DIR$/XDL/test1.py" />
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/test_py/查找模块.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day08/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="42" column="31" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part_7/gui6b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part_8/config_label.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part_8/config_button.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/代码收藏/time时间转换.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/作业(2018-9-13)/查找Py文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/作业(2018-9-13)/buy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1566">
+          <caret line="77" column="13" lean-forward="true" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day09/register.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day09/black_userinfo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day09/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="41" column="18" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day09/buy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="41" column="29" lean-forward="true" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/programming_python-Gz4A-Rrx/Lib/functools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13112">
+          <caret line="283" column="32" lean-forward="true" selection-start-line="283" selection-start-column="32" selection-end-line="283" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part_8/toplevel2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part_8/dlg1.pyw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Part_8/quitter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-2013894621/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="4944" column="8" selection-start-line="4944" selection-start-column="8" selection-end-line="4944" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day11/3.py" />
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/test_py/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day10/3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day10/2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day10/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding>
+            <marker date="1537266458978" expanded="true" signature="166:175" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day11/demo2.py" />
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day11/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day11/bullet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day11/person.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day11/gun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day11/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day04/2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day11/demo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <marker date="1537347671183" expanded="true" signature="284:286" ph="..." />
+            <marker date="1537347671183" expanded="true" signature="284:294" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day12/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
