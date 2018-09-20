@@ -19,6 +19,7 @@ class B(A):
 # bet = BettingStrategy2()
 
 # print(bet.bet())
-		
+
 b = B()
 print(b.bet())
+#
