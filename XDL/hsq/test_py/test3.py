@@ -22,3 +22,13 @@ class B(A):
 		
 b = B()
 print(b.bet())
+
+import sys
+
+from tkinter import *
+
+root = Tk()
+
+widget = Button(master=root, cnf={"text": "Press", "command": sys.exit})
+widget.pack(side=TOP, fill=BOTH)
+root.mainloop()

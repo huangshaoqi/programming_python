@@ -19,6 +19,6 @@ class C:
 
 
 if __name__ == "__main__":
-    c = C("lucy", 35)
+    c = C("小花", 35)
     c.print_hello()
     c.print_hello2()
