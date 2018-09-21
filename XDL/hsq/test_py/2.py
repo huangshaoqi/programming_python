@@ -1,3 +1,5 @@
+"""123"""
+
 class Buttlet:
     """
     弹夹
@@ -30,6 +32,7 @@ class Gun:
 
 
 class Person:
+    """123"""
 
     def __init__(self, gun):
         self.gun = gun
