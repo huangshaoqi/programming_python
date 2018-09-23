@@ -26,6 +26,5 @@ def find(path):
     return find_py(path)
 
 
-if __name__ == "__main__":
-    print(find("./"))
+if __name__ == "__main__":   
     print(find("./"))
