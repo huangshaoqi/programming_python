@@ -1,24 +1,35 @@
-import abc
 """抽象基类"""
-class A(metaclass=abc.ABCMeta):
-	"""禁止实例化"""
-	@abc.abstractmethod
-	def bet(self):
-		return 1
+import sys
+import abc
 
-	def record_win(self):
-		pass
 
-	def record_loss(self):
-		pass
+class Aclass(metaclass=abc.ABCMeta):
+    """禁止实例化"""
 
-class B(A):
-	def bet(self):
-		return "Hello world!"
+    @abc.abstractmethod
+    def bet(self):
+        """1"""
+        return 1
+
+    def record_win(self):
+        """2"""
+        pass
+
+    def record_loss(self):
+        """3"""
+        pass
+
+
+class Bclass(Aclass):
+    """4"""
+
+    def bet(self):
+        return "Hello world!"
+
 
 # bet = BettingStrategy2()
-
 # print(bet.bet())
+<<<<<<< HEAD
 		
 b = B()
 print(b.bet())
@@ -32,3 +43,8 @@ root = Tk()
 widget = Button(master=root, cnf={"text": "Press", "command": sys.exit})
 widget.pack(side=TOP, fill=BOTH)
 root.mainloop()
+=======
+B = Bclass()
+print(B.bet())
+print(sys.version_info)
+>>>>>>> 1466e80ce29f553b69063063decde59716b572cd
