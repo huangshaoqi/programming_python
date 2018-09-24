@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b60cb87d-1553-4c34-808c-501125b29ad6" name="Default Changelist" comment="笔记">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/programming_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/programming_python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XDL/hsq/作业(2018-9-13)/user_info.data" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/test_py/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/hsq/test_py/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/test_py/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/hsq/test_py/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/test_py/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/hsq/test_py/test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/test_py/test3.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/hsq/test_py/test3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -147,10 +151,11 @@
     <session id="-1011097223">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.10" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -186,26 +191,7 @@
     <favorites_list name="programming_python" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/XDL/hsq/Day13/3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/XDL/hsq/Day13/4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -300,13 +286,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
-            <path>
-              <item name="programming_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="programming_python" type="462c0819:PsiDirectoryNode" />
-            </path>
             <path>
               <item name="programming_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
@@ -315,7 +298,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -595,7 +577,7 @@
     <frame x="-6" y="-6" width="1381" height="895" extended-state="6" />
     <layout>
       <window_info anchor="top" x="12" y="75" width="1367" height="859" id="Python Console" order="0" type="WINDOWED" weight="0.6448231" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.58164644" visible="true" weight="0.21844293" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.58164644" visible="true" weight="0.2244898" />
       <window_info id="Structure" order="1" sideWeight="0.41778976" side_tool="true" weight="0.22524565" />
       <window_info id="Favorites" order="2" sideWeight="0.41546527" side_tool="true" weight="0.19803476" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -606,7 +588,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32896462" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.4988662" visible="true" weight="0.33468285" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4988662" weight="0.35309973" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5011338" side_tool="true" weight="0.19002695" />
       <window_info active="true" anchor="bottom" id="Concurrent Activities Diagram" order="11" weight="0.32896462" />
@@ -1089,8 +1071,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/XDL/hsq/Day13/3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="540">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
