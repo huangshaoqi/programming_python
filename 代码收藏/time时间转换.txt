@@ -1,6 +1,0 @@
-字符串 -- 时间对象 time.strptime(字符串,"%Y-%m-%d %H:%M:%S")
-字符串 -- 时间戳 time.mktime(time.strptime(字符串,"%Y-%m-%d %H:%M:%S"))
-时间对象 -- 字符串 time.strftime("%Y-%m-%d %H:%M:%S",时间对象)
-时间对象 -- 时间戳 time.mktime(时间对象)
-时间戳 -- 字符串  time.strftime("%Y-%m-%d %H:%M:%S",time.localtime(时间戳))
-时间戳 -- 时间对象 time.localtime(时间戳)

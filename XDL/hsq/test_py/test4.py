@@ -1,12 +1,4 @@
-import os
-
-print(os.path.abspath("."))
-print("小孩士大夫")
-
-res = os.path.abspath(".")
+import time
+date_c = 1537853910.0
+res = time.localtime(date_c)
 print(res)
-
-
-from email import message
-
-
