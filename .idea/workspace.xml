@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b60cb87d-1553-4c34-808c-501125b29ad6" name="Default Changelist" comment="笔记">
-      <change afterPath="$PROJECT_DIR$/XDL/hsq/Day16/2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b60cb87d-1553-4c34-808c-501125b29ad6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/XDL/hsq/Day15/gui_calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/hsq/Day15/gui_calc.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,6 +38,7 @@
     <SUITE FILE_PATH="coverage/programming_python$2__1_.coverage" NAME="2 (1) Coverage Results" MODIFIED="1538017616453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/Day16" />
     <SUITE FILE_PATH="coverage/programming_python$4__1_.coverage" NAME="4 (1) Coverage Results" MODIFIED="1537519519820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/Day13" />
     <SUITE FILE_PATH="coverage/programming_python$main.coverage" NAME="main Coverage Results" MODIFIED="1537347056461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/Day11" />
+    <SUITE FILE_PATH="coverage/programming_python$3__1_.coverage" NAME="3 (1) Coverage Results" MODIFIED="1538030224079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/Day16" />
     <SUITE FILE_PATH="coverage/programming_python$4.coverage" NAME="4 Coverage Results" MODIFIED="1537430255396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/Day12" />
     <SUITE FILE_PATH="coverage/programming_python$gui1g.coverage" NAME="gui1g Coverage Results" MODIFIED="1536576244161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_7" />
     <SUITE FILE_PATH="coverage/programming_python$gui4.coverage" NAME="gui4 Coverage Results" MODIFIED="1536757732523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_7" />
@@ -78,6 +77,7 @@
     <SUITE FILE_PATH="coverage/programming_python$gui1.coverage" NAME="gui1 Coverage Results" MODIFIED="1536485031986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_7" />
     <SUITE FILE_PATH="coverage/programming_python$buy__1_.coverage" NAME="buy (1) Coverage Results" MODIFIED="1537171112252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/Day09" />
     <SUITE FILE_PATH="coverage/programming_python$1.coverage" NAME="1 Coverage Results" MODIFIED="1537322784604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/test_py" />
+    <SUITE FILE_PATH="coverage/programming_python$gui_calc.coverage" NAME="gui_calc Coverage Results" MODIFIED="1538042339632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/Day15" />
     <SUITE FILE_PATH="coverage/programming_python$make_db_pickle.coverage" NAME="make_db_pickle Coverage Results" MODIFIED="1535440637673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_1" />
     <SUITE FILE_PATH="coverage/programming_python$register.coverage" NAME="register Coverage Results" MODIFIED="1537236595174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/Day09" />
   </component>
@@ -160,28 +160,28 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="7" />
-          <entry key="py" value="8" />
+          <entry key="py" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="7" />
-          <entry key="Python" value="8" />
+          <entry key="Python" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="53" />
-          <entry key="py" value="687" />
-          <entry key="txt" value="10" />
+          <entry key="py" value="1697" />
+          <entry key="txt" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="10" />
-          <entry key="Python" value="740" />
+          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="Python" value="1750" />
         </counts>
       </usages-collector>
     </session>
@@ -190,7 +190,29 @@
     <favorites_list name="programming_python" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XDL/hsq/Day16/3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/XDL/hsq/Day15/gui_calc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="43" column="37" lean-forward="true" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -211,8 +233,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Part_7/gui5b.py" />
-        <option value="$PROJECT_DIR$/XDL/test1.py" />
         <option value="$PROJECT_DIR$/Part_7/gui6.py" />
         <option value="$PROJECT_DIR$/Part_7/gui6b.py" />
         <option value="$PROJECT_DIR$/XDL/黄少奇/Day07/1.py" />
@@ -262,6 +282,8 @@
         <option value="$PROJECT_DIR$/XDL/hsq/Day13/4.py" />
         <option value="$PROJECT_DIR$/XDL/hsq/Day13/3.py" />
         <option value="$PROJECT_DIR$/XDL/hsq/Day16/2.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/Day16/3.py" />
+        <option value="$PROJECT_DIR$/XDL/hsq/Day15/gui_calc.py" />
       </list>
     </option>
   </component>
@@ -309,11 +331,14 @@
               <item name="programming_python" type="462c0819:PsiDirectoryNode" />
               <item name="XDL" type="462c0819:PsiDirectoryNode" />
               <item name="hsq" type="462c0819:PsiDirectoryNode" />
-              <item name="Day16" type="462c0819:PsiDirectoryNode" />
+              <item name="Day15" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="programming_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="programming_python" type="462c0819:PsiDirectoryNode" />
+              <item name="XDL" type="462c0819:PsiDirectoryNode" />
+              <item name="hsq" type="462c0819:PsiDirectoryNode" />
+              <item name="Day16" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -352,7 +377,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2 (1)">
+  <component name="RunManager" selected="Python.gui_calc">
     <configuration name="2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="programming_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -375,7 +400,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="programming_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -383,12 +408,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/XDL/hsq/Day13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/XDL/hsq/Day16" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XDL/hsq/Day13/2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XDL/hsq/Day16/3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -441,7 +466,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="text" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="gui_calc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="programming_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -449,12 +474,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/XDL/hsq/Day12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/XDL/hsq/Day15" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XDL/hsq/Day12/text.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XDL/hsq/Day15/gui_calc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -464,19 +489,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.text" />
-      <item itemvalue="Python.2" />
       <item itemvalue="Python.3" />
       <item itemvalue="Python.4 (1)" />
       <item itemvalue="Python.2 (1)" />
+      <item itemvalue="Python.3 (1)" />
+      <item itemvalue="Python.gui_calc" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.gui_calc" />
+        <item itemvalue="Python.3 (1)" />
         <item itemvalue="Python.2 (1)" />
         <item itemvalue="Python.3" />
         <item itemvalue="Python.4 (1)" />
-        <item itemvalue="Python.2" />
-        <item itemvalue="Python.text" />
       </list>
     </recent_temporary>
   </component>
@@ -582,7 +607,14 @@
       <option name="project" value="LOCAL" />
       <updated>1537534640845</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="多线程1">
+      <created>1538017785616</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1538017785616</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TodoView">
@@ -596,21 +628,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="895" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.57978725" visible="true" weight="0.24263039" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.57978725" visible="true" weight="0.24263039" />
       <window_info id="Structure" order="1" sideWeight="0.42021278" side_tool="true" weight="0.24263039" />
       <window_info id="Favorites" order="2" sideWeight="0.41546527" side_tool="true" weight="0.19803476" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32896462" />
-      <window_info anchor="bottom" x="-16" y="349" width="1299" height="333" id="Run" order="2" sideWeight="0.4988662" weight="0.47968546" />
+      <window_info active="true" anchor="bottom" x="-16" y="349" width="1299" height="333" id="Run" order="2" sideWeight="0.4988662" visible="true" weight="0.2778506" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2277628" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32896462" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4988662" weight="0.35078534" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4988662" weight="0.34993446" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5011338" side_tool="true" weight="0.19002695" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5011338" side_tool="true" weight="0.1887287" />
       <window_info active="true" anchor="bottom" id="Concurrent Activities Diagram" order="11" weight="0.32896462" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32658568" />
       <window_info anchor="bottom" x="-25" y="61" width="1367" height="859" id="Python Console" order="13" weight="0.40706807" />
@@ -693,7 +726,8 @@
     <MESSAGE value="GUI学习之旅" />
     <MESSAGE value="面向对象1" />
     <MESSAGE value="2018-9-21" />
-    <option name="LAST_COMMIT_MESSAGE" value="2018-9-21" />
+    <MESSAGE value="多线程1" />
+    <option name="LAST_COMMIT_MESSAGE" value="多线程1" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -793,7 +827,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/代码收藏/time时间转换.txt" />
     <entry file="file://$PROJECT_DIR$/XDL/hsq/作业(2018-9-13)/查找Py文件.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="621">
@@ -1084,11 +1117,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day15/gui_calc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2743" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/XDL/hsq/Day16/2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -1096,6 +1124,23 @@
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day16/3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day15/gui_calc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="43" column="37" lean-forward="true" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
         </state>
       </provider>
     </entry>
