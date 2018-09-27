@@ -20,6 +20,58 @@ text = tkinter.Text(fram1, font=("楷体", 22), bg="#D0D0D0", width=25, height=5
 text.grid(row=0, column=0, columnspan=4)
 text.grid_propagate(0)
 
+
+# 全部删除
+def Clean():
+    text.delete(0.0, tkinter.END)
+
+
+# 一个字符一个字符的删除
+def Del():
+    content = text.get(0.0, tkinter.END)[:-2]
+    text.delete(0.0, tkinter.END)
+    text.insert(0.0, content)
+
+
+# 删除上一次的输入
+def Clean_last():
+    content = text.get(0.0, tkinter.END)[:-1]
+    for symbol in ["+", "-", "*", "÷"]:
+        if content.find(symbol) != -1:
+            content = content.split(symbol)[0]
+            text.delete(0.0, tkinter.END)
+            text.insert(0.0, content + symbol)
+
+
+# 打印字符
+def print_symbol(symbol):
+    def Symbol():
+        content = text.get(0.0, tkinter.END)[:-1]
+        text.delete(0.0, tkinter.END)
+        content += symbol
+        text.insert(0.0, content)
+
+    return Symbol
+
+
+# 等于号计算
+def calc():
+    content = text.get(0.0, tkinter.END)[:-1]
+    text.delete(0.0, tkinter.END)
+    text.insert(0.0, eval(content))
+
+
+# 正负号添加
+def add_sub():
+    content = text.get(0.0, tkinter.END)[:-1]
+    if content.startswith("-"):
+        content = text.get(0.0, tkinter.END)[:-1][1:]
+    else:
+        content = "-" + text.get(0.0, tkinter.END)[:-1]
+    text.delete(0.0, tkinter.END)
+    text.insert(0.0, content)
+
+
 # 按钮样式
 style = {
     "bg": "#F8F8F8",
@@ -29,26 +81,26 @@ style = {
 }
 
 # 定义各按钮
-button_Clean_last = tkinter.Button(fram1, text="CE", command="", **style)
-button_Clean = tkinter.Button(fram1, text="C", command="", **style)
-button_delete = tkinter.Button(fram1, text="del", command="", **style)
-button_division = tkinter.Button(fram1, text="÷", command="", **style)
-button_7 = tkinter.Button(fram1, text="7", command="", **style)
-button_8 = tkinter.Button(fram1, text="8", command="", **style)
-button_9 = tkinter.Button(fram1, text="9", command="", **style)
-button_multiplication = tkinter.Button(fram1, text="×", command="", **style)
-button_4 = tkinter.Button(fram1, text="4", command="", **style)
-button_5 = tkinter.Button(fram1, text="5", command="", **style)
-button_6 = tkinter.Button(fram1, text="6", command="", **style)
-button_subtraction = tkinter.Button(fram1, text="-", command="", **style)
-button_1 = tkinter.Button(fram1, text="1", command="", **style)
-button_2 = tkinter.Button(fram1, text="2", command="", **style)
-button_3 = tkinter.Button(fram1, text="3", command="", **style)
-button_addition = tkinter.Button(fram1, text="+", command="", **style)
-button_a_s = tkinter.Button(fram1, text="±", command="", **style)
-button_0 = tkinter.Button(fram1, text="0", command="", **style)
-button_spot = tkinter.Button(fram1, text=".", command="", **style)
-button_equal = tkinter.Button(fram1, text="=", command="", **style)
+button_Clean_last = tkinter.Button(fram1, text="CE", command=Clean_last, **style)
+button_Clean = tkinter.Button(fram1, text="C", command=Clean, **style)
+button_delete = tkinter.Button(fram1, text="del", command=Del, **style)
+button_division = tkinter.Button(fram1, text="÷", command=print_symbol("÷"), **style)
+button_7 = tkinter.Button(fram1, text="7", command=print_symbol("7"), **style)
+button_8 = tkinter.Button(fram1, text="8", command=print_symbol("8"), **style)
+button_9 = tkinter.Button(fram1, text="9", command=print_symbol("9"), **style)
+button_multiplication = tkinter.Button(fram1, text="*", command=print_symbol("*"), **style)
+button_4 = tkinter.Button(fram1, text="4", command=print_symbol("4"), **style)
+button_5 = tkinter.Button(fram1, text="5", command=print_symbol("5"), **style)
+button_6 = tkinter.Button(fram1, text="6", command=print_symbol("6"), **style)
+button_subtraction = tkinter.Button(fram1, text="-", command=print_symbol("-"), **style)
+button_1 = tkinter.Button(fram1, text="1", command=print_symbol("1"), **style)
+button_2 = tkinter.Button(fram1, text="2", command=print_symbol("2"), **style)
+button_3 = tkinter.Button(fram1, text="3", command=print_symbol("3"), **style)
+button_addition = tkinter.Button(fram1, text="+", command=print_symbol("+"), **style)
+button_a_s = tkinter.Button(fram1, text="±", command=add_sub, **style)
+button_0 = tkinter.Button(fram1, text="0", command=print_symbol("0"), **style)
+button_spot = tkinter.Button(fram1, text=".", command=print_symbol("."), **style)
+button_equal = tkinter.Button(fram1, text="=", command=calc, **style)
 
 # 按钮列表，后面循环绑定事件用
 buttons = [
