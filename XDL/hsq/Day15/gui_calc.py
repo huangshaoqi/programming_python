@@ -8,9 +8,10 @@ root.iconbitmap("calc.ico")
 # 固定窗口大小
 root.maxsize(380,405)
 root.minsize(380,405)
+# 窗口位置
 root.geometry("380x405+800+100")
 
-# 创建2各框架，一个是输入框区域，一个是按钮区域
+# 创建框架
 fram1 = tkinter.Frame(root, height=480)
 
 # 输入内容与计算结果通过Entry输入框显示

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b60cb87d-1553-4c34-808c-501125b29ad6" name="Default Changelist" comment="笔记">
-      <change beforePath="$PROJECT_DIR$/OOP/Part_2/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Part_2/test.py" afterDir="false" />
-    </list>
+    <list default="true" id="b60cb87d-1553-4c34-808c-501125b29ad6" name="Default Changelist" comment="笔记" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,12 +143,13 @@
     <session id="-1011097223">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -281,7 +280,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -297,6 +295,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -575,7 +574,7 @@
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="895" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.58164644" visible="true" weight="0.22751322" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.58164644" visible="true" weight="0.23129252" />
       <window_info id="Structure" order="1" sideWeight="0.41778976" side_tool="true" weight="0.22524565" />
       <window_info id="Favorites" order="2" sideWeight="0.41546527" side_tool="true" weight="0.19803476" />
       <window_info anchor="bottom" id="Message" order="0" />
