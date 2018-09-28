@@ -15,7 +15,6 @@ root.geometry("380x405+800+100")
 fram1 = tkinter.Frame(root, height=480)
 
 # 输入内容与计算结果通过Entry输入框显示
-# content = tkinter.WtringVar()
 text = tkinter.Text(fram1, font=("楷体", 22), bg="#D0D0D0", width=25, height=5)
 text.grid(row=0, column=0, columnspan=4)
 text.grid_propagate(0)
@@ -36,10 +35,10 @@ def Del():
 # 删除上一次的输入
 def Clean_last():
     content = text.get(0.0, tkinter.END)[:-1]
-    print(len(content))
+    # print(len(content))
     if len(content) == 1:
         text.delete(0.0, tkinter.END)
-        print("aaaa")
+        # print("aaaa")
 
     elif not content.startswith("-"):
         if not content.isdigit():
@@ -58,7 +57,7 @@ def Clean_last():
             for symbol in ["+", "*", "÷", "-"]:
                 if content[1:].find(symbol) != -1:
                     content = content[1:].split(symbol)[0]
-                    print(content)
+                    # print(content)
                     text.delete(0.0, tkinter.END)
                     text.insert(0.0, "-" + content + symbol)
                     break
@@ -254,7 +253,6 @@ fram1.pack(side=tkinter.TOP, fill=tkinter.X)
 
 # 网格布局按钮
 sticky = tkinter.N + tkinter.E + tkinter.W
-
 button_Clean_last.grid(row=1, column=0, sticky=sticky)
 button_Clean.grid(row=1, column=1, sticky=sticky)
 button_delete.grid(row=1, column=2, sticky=sticky)
