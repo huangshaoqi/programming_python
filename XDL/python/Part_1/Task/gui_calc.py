@@ -3,7 +3,6 @@ import tkinter
 # 定义主窗口
 root = tkinter.Tk()
 root.title("Python计算器")
-root.iconbitmap("calc.ico")
 
 # 固定窗口大小
 root.maxsize(380, 405)
@@ -121,13 +120,13 @@ def calc():
     content = text.get(0.0, tkinter.END)[:-1].replace("÷", "/")
     text.delete(0.0, tkinter.END)
     try:
-        content = eval(content)
-        print(content)
-        if str(content).endswith(".0"):
+        content = str(eval(content))
+        # print(content)
+        if content.endswith(".0"):
             content = content[:-2]
         text.insert(0.0, content)
     except Exception as e:
-        print(e)
+        # print(e)
         text.insert(0.0, "输入不正确")
 
 
