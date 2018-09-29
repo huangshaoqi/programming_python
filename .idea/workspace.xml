@@ -2,7 +2,174 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b60cb87d-1553-4c34-808c-501125b29ad6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day15/gui_calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/hsq/Day15/gui_calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码收藏/parit_1复习.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day01/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day01/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day01/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day01/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day01/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day01/3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day01/4.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day01/4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day01/5.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day01/5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day02/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day02/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day03/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day03/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day04/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day04/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day04/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day04/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day04/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day04/3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day05/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day05/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day05/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day05/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day06/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day06/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day06/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day06/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day06/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day06/3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day07/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day07/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day08/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day08/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day09/black_userinfo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day09/black_userinfo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day09/buy.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day09/buy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day09/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day09/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day09/register.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day09/register.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day09/userinfo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day09/userinfo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day10/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day10/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day10/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day10/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day10/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day10/3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day11/bullet.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day11/bullet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day11/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day11/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day11/demo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day11/demo1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day11/gun.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day11/gun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day11/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day11/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day11/person.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day11/person.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day12/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day12/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day12/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day12/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day12/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day12/3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day12/4.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day12/4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day12/5.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day12/5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day12/6.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day12/6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day12/7.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day12/7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day12/text.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day12/text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day13/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day13/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day13/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day13/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day13/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day13/3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day13/4.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day13/4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day14/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day14/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day14/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day14/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day14/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day14/3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day15/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day15/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day15/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day15/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day15/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day15/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day15/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day15/3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day15/4.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day15/4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day15/5.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day15/5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day15/6.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day15/6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day15/7.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day15/7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day15/8.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day15/8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day15/calc.ico" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day15/calc.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day15/gui_calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day15/gui_calc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day15/ico.ico" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day15/ico.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day15/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day15/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/10、创建多线程.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/10、创建多线程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/11、线程的数据共享.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/11、线程的数据共享.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/12、互斥锁.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/12、互斥锁.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/13、信号量.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/13、信号量.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/14、凑够数才结束.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/14、凑够数才结束.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/1、飞Q.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/1、飞Q.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/2、短信轰炸.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/2、短信轰炸.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/3、多任务介绍.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/3、多任务介绍.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/4、不带多进程的程序.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/4、不带多进程的程序.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/5、多进程优化程序.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/5、多进程优化程序.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/6、父子进程结束顺序.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/6、父子进程结束顺序.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/7、多进程与全局变量.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/7、多进程与全局变量.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/8、进程池.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/8、进程池.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/9、多线程.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/9、多线程.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/message.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/message.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/ASP.NET(C#)/Post.aspx" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/ASP.NET(C#)/Post.aspx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/ASP.NET(C#)/Post.aspx.cs" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/ASP.NET(C#)/Post.aspx.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/ASP.NET(C#)/Web.Config" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/ASP.NET(C#)/Web.Config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/ASP.NET(C#)/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/ASP.NET(C#)/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/ASP.NET(C#)/reg.aspx" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/ASP.NET(C#)/reg.aspx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/ASP/code.asp" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/ASP/code.asp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/ASP/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/ASP/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/ASP/reg.asp" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/ASP/reg.asp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/ASP/sms.asp" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/ASP/sms.asp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/C++/sms.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/C++/sms.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/C/sms.c" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/C/sms.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/Delphi/Project1.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/Delphi/Project1.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/Delphi/Project1.dof" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/Delphi/Project1.dof" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/Delphi/Project1.dpr" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/Delphi/Project1.dpr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/Delphi/Project1.dproj" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/Delphi/Project1.dproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/Delphi/Project1.dproj.local" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/Delphi/Project1.dproj.local" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/Delphi/Project1.res" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/Delphi/Project1.res" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/Delphi/Unit1.dcu" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/Delphi/Unit1.dcu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/Delphi/Unit1.ddp" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/Delphi/Unit1.ddp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/Delphi/Unit1.dfm" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/Delphi/Unit1.dfm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/Delphi/Unit1.pas" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/Delphi/Unit1.pas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/Delphi/sms.dcu" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/Delphi/sms.dcu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/Delphi/sms.pas" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/Delphi/sms.pas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/Excel/sms.xlsm" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/Excel/sms.xlsm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/GO/sms.go" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/GO/sms.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/JSP/code.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/JSP/code.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/JSP/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/JSP/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/JSP/reg.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/JSP/reg.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/JSP/sms.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/JSP/sms.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/PHP/OOP/code.php" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/PHP/OOP/code.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/PHP/OOP/config.ihuyi.php" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/PHP/OOP/config.ihuyi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/PHP/OOP/font.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/PHP/OOP/font.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/PHP/OOP/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/PHP/OOP/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/PHP/OOP/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/PHP/OOP/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/PHP/OOP/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/PHP/OOP/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/PHP/OOP/sms.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/PHP/OOP/sms.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/VB6/Form1.frm" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/VB6/Form1.frm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/VB6/Form1.frx" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/VB6/Form1.frx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/VB6/Form1.log" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/VB6/Form1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/VB6/Mswinsck.OCX" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/VB6/Mswinsck.OCX" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/VB6/uft8.bas" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/VB6/uft8.bas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/VB6/工程1.vbp" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/VB6/工程1.vbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/VB6/工程1.vbw" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/VB6/工程1.vbw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/VB6/注册ocx.bat" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/VB6/注册ocx.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/java/http_post/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/java/http_post/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/java/http_post/.project" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/java/http_post/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/java/http_post/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/java/http_post/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/java/http_post/bin/sendsms.class" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/java/http_post/bin/sendsms.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/java/http_post/bin/util/StringUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/java/http_post/bin/util/StringUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/java/http_post/lib/commons-codec-1.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/java/http_post/lib/commons-codec-1.3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/java/http_post/lib/commons-httpclient-3.0-rc4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/java/http_post/lib/commons-httpclient-3.0-rc4.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/java/http_post/lib/commons-logging-1.0.4.jar" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/java/http_post/lib/commons-logging-1.0.4.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/java/http_post/lib/dom4j-1.6.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/java/http_post/lib/dom4j-1.6.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/java/http_post/src/sendsms.java" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/java/http_post/src/sendsms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/java/http_post/src/util/StringUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/java/http_post/src/util/StringUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/node.js/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/node.js/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/node.js/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/node.js/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/node.js/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/node.js/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/node.js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/node.js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/node.js/lib/ihuyi(spidex2.1.2).js" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/node.js/lib/ihuyi(spidex2.1.2).js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/node.js/lib/ihuyi.js" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/node.js/lib/ihuyi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/node.js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/node.js/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/python/sms2.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/python/sms2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/python/sms3.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/python/sms3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/ruby/sms.rb" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/ruby/sms.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/shell/sms.sh" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/shell/sms.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/易语言/data/getnum.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/易语言/data/getnum.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/易语言/data/submit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/易语言/data/submit.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/易语言/sms.e" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/易语言/sms.e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/易语言/sms.ec" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/易语言/sms.ec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/DEMO/易语言/短信接口使用例程.e" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/易语言/短信接口使用例程.e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/互亿无线-安全防护方案.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/互亿无线-安全防护方案.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/互亿无线-快速入门v1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/互亿无线-快速入门v1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/互亿无线-短信验证码接口文档v3.3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/互亿无线-短信验证码接口文档v3.3.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/互亿无线-短信验证码接口文档/互亿无线-短信验证码通知-使用指南.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/互亿无线-短信验证码通知-使用指南.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/Day16/多线程开发.doc" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day16/多线程开发.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/test_py/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/test_py/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/test_py/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/test_py/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/test_py/source.txt" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/test_py/source.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/test_py/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/test_py/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/test_py/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/test_py/test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/test_py/test3.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/test_py/test3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/test_py/test4.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/test_py/test4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/test_py/查找模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/test_py/查找模块.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/作业(2018-9-13)/buy.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/作业(2018-9-13)/buy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/作业(2018-9-13)/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/作业(2018-9-13)/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/作业(2018-9-13)/register.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/作业(2018-9-13)/register.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/作业(2018-9-13)/user_info.data" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/作业(2018-9-13)/user_info.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/hsq/作业(2018-9-13)/查找Py文件.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/作业(2018-9-13)/查找Py文件.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +232,7 @@
     <SUITE FILE_PATH="coverage/programming_python$gui3d.coverage" NAME="gui3d Coverage Results" MODIFIED="1536752901725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_7" />
     <SUITE FILE_PATH="coverage/programming_python$make_db_shelve.coverage" NAME="make_db_shelve Coverage Results" MODIFIED="1535441517846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_1" />
     <SUITE FILE_PATH="coverage/programming_python$test.coverage" NAME="test Coverage Results" MODIFIED="1536671652129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL" />
+    <SUITE FILE_PATH="coverage/programming_python$gui_calc__1_.coverage" NAME="gui_calc (1) Coverage Results" MODIFIED="1538096411107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/python/Part_1/Day15" />
     <SUITE FILE_PATH="coverage/programming_python$gui2.coverage" NAME="gui2 Coverage Results" MODIFIED="1536577237992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_7" />
     <SUITE FILE_PATH="coverage/programming_python$gui2b.coverage" NAME="gui2b Coverage Results" MODIFIED="1536577630355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_7" />
     <SUITE FILE_PATH="coverage/programming_python$person_alteernative.coverage" NAME="person_alteernative Coverage Results" MODIFIED="1535806086712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_1" />
@@ -76,8 +244,8 @@
     <SUITE FILE_PATH="coverage/programming_python$attachgui.coverage" NAME="attachgui Coverage Results" MODIFIED="1536421011852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_1" />
     <SUITE FILE_PATH="coverage/programming_python$gui1.coverage" NAME="gui1 Coverage Results" MODIFIED="1536485031986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_7" />
     <SUITE FILE_PATH="coverage/programming_python$buy__1_.coverage" NAME="buy (1) Coverage Results" MODIFIED="1537171112252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/Day09" />
-    <SUITE FILE_PATH="coverage/programming_python$1.coverage" NAME="1 Coverage Results" MODIFIED="1537322784604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/test_py" />
     <SUITE FILE_PATH="coverage/programming_python$gui_calc.coverage" NAME="gui_calc Coverage Results" MODIFIED="1538042339632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/Day15" />
+    <SUITE FILE_PATH="coverage/programming_python$1.coverage" NAME="1 Coverage Results" MODIFIED="1538096747136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/python/Part_1/Day04" />
     <SUITE FILE_PATH="coverage/programming_python$make_db_pickle.coverage" NAME="make_db_pickle Coverage Results" MODIFIED="1535440637673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_1" />
     <SUITE FILE_PATH="coverage/programming_python$register.coverage" NAME="register Coverage Results" MODIFIED="1537236595174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/Day09" />
   </component>
@@ -147,41 +315,45 @@
     <session id="-1011097223">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
-          <entry key="project.open.time.10" value="2" />
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.10" value="4" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="7" />
-          <entry key="py" value="10" />
+          <entry key="c" value="1" />
+          <entry key="md" value="8" />
+          <entry key="py" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="7" />
-          <entry key="Python" value="10" />
+          <entry key="C++" value="1" />
+          <entry key="Markdown" value="8" />
+          <entry key="Python" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="53" />
-          <entry key="py" value="1697" />
-          <entry key="txt" value="15" />
+          <entry key="Python Console" value="325" />
+          <entry key="md" value="45" />
+          <entry key="py" value="1700" />
+          <entry key="txt" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="15" />
-          <entry key="Python" value="1750" />
+          <entry key="Markdown" value="45" />
+          <entry key="PLAIN_TEXT" value="41" />
+          <entry key="Python" value="2025" />
         </counts>
       </usages-collector>
     </session>
@@ -190,29 +362,7 @@
     <favorites_list name="programming_python" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/XDL/hsq/Day16/3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#0#40#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/XDL/hsq/Day15/gui_calc.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="43" column="37" lean-forward="true" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -233,9 +383,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Part_7/gui6.py" />
-        <option value="$PROJECT_DIR$/Part_7/gui6b.py" />
-        <option value="$PROJECT_DIR$/XDL/黄少奇/Day07/1.py" />
         <option value="$PROJECT_DIR$/XDL/hsq/Day05/1.py" />
         <option value="$PROJECT_DIR$/XDL/hsq/作业(2018-9-13)/login.py" />
         <option value="$PROJECT_DIR$/XDL/hsq/Day07/1.py" />
@@ -284,6 +431,9 @@
         <option value="$PROJECT_DIR$/XDL/hsq/Day16/2.py" />
         <option value="$PROJECT_DIR$/XDL/hsq/Day16/3.py" />
         <option value="$PROJECT_DIR$/XDL/hsq/Day15/gui_calc.py" />
+        <option value="$PROJECT_DIR$/XDL/python/Part_1/Day15/gui_calc.py" />
+        <option value="$PROJECT_DIR$/XDL/python/Part_1/test_py/1.py" />
+        <option value="$PROJECT_DIR$/代码收藏/parit_1复习.md" />
       </list>
     </option>
   </component>
@@ -293,9 +443,14 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/node.js/package.json" />
+    </packageJsonPaths>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-4" />
-    <option name="y" value="4" />
+    <option name="x" value="774" />
+    <option name="y" value="38" />
     <option name="width" value="2762" />
     <option name="height" value="1790" />
   </component>
@@ -324,21 +479,19 @@
               <item name="programming_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="programming_python" type="462c0819:PsiDirectoryNode" />
               <item name="XDL" type="462c0819:PsiDirectoryNode" />
-              <item name="hsq" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="programming_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="programming_python" type="462c0819:PsiDirectoryNode" />
               <item name="XDL" type="462c0819:PsiDirectoryNode" />
-              <item name="hsq" type="462c0819:PsiDirectoryNode" />
-              <item name="Day15" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="Part_1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="programming_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="programming_python" type="462c0819:PsiDirectoryNode" />
-              <item name="XDL" type="462c0819:PsiDirectoryNode" />
-              <item name="hsq" type="462c0819:PsiDirectoryNode" />
-              <item name="Day16" type="462c0819:PsiDirectoryNode" />
+              <item name="代码收藏" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -355,13 +508,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\work\Code\programming_python\XDL\hsq\Part_1" />
       <recent name="C:\工作\Code\programming_python\XDL\hsq\Day12" />
       <recent name="C:\工作\Code\programming_python\笔记" />
       <recent name="C:\工作\Code\programming_python\XDL\hsq\test_py" />
       <recent name="C:\工作\Code\programming_python\XDL\hsq\Day08" />
-      <recent name="C:\工作\Code\programming_python\XDL\hsq\作业(2018-9-13)" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\work\Code\programming_python\XDL\hsq\Day16" />
       <recent name="C:\工作\Code\programming_python\Part_8" />
     </key>
   </component>
@@ -377,7 +531,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.gui_calc">
+  <component name="RunManager" selected="Python.1">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="programming_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/XDL/python/Part_1/Day04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XDL/python/Part_1/Day04/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="programming_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -422,7 +598,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="gui_calc (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="programming_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -430,34 +606,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/XDL/hsq/Day13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/XDL/python/Part_1/Day15" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XDL/hsq/Day13/3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="programming_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/XDL/hsq/Day13" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XDL/hsq/Day13/4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XDL/python/Part_1/Day15/gui_calc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -479,7 +633,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XDL/hsq/Day15/gui_calc.py" />
+      <option name="SCRIPT_NAME" value="C:\work\Code\programming_python\XDL\python\Part_1\Day15\gui_calc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -489,19 +643,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.3" />
-      <item itemvalue="Python.4 (1)" />
       <item itemvalue="Python.2 (1)" />
       <item itemvalue="Python.3 (1)" />
       <item itemvalue="Python.gui_calc" />
+      <item itemvalue="Python.gui_calc (1)" />
+      <item itemvalue="Python.1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.gui_calc (1)" />
         <item itemvalue="Python.gui_calc" />
         <item itemvalue="Python.3 (1)" />
         <item itemvalue="Python.2 (1)" />
-        <item itemvalue="Python.3" />
-        <item itemvalue="Python.4 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -614,7 +768,21 @@
       <option name="project" value="LOCAL" />
       <updated>1538017785616</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="计算器完成">
+      <created>1538042404706</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1538042404706</updated>
+    </task>
+    <task id="LOCAL-00016" summary="多进程、多线程、线程锁，信号量">
+      <created>1538042652505</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1538042652505</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView">
@@ -627,15 +795,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1381" height="895" extended-state="6" />
-    <editor active="true" />
+    <frame x="460" y="20" width="1381" height="895" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.57978725" visible="true" weight="0.24263039" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.57978725" visible="true" weight="0.25396827" />
       <window_info id="Structure" order="1" sideWeight="0.42021278" side_tool="true" weight="0.24263039" />
       <window_info id="Favorites" order="2" sideWeight="0.41546527" side_tool="true" weight="0.19803476" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32896462" />
-      <window_info active="true" anchor="bottom" x="-16" y="349" width="1299" height="333" id="Run" order="2" sideWeight="0.4988662" visible="true" weight="0.2778506" />
+      <window_info anchor="bottom" x="-16" y="349" width="1299" height="333" id="Run" order="2" sideWeight="0.4988662" weight="0.48623854" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2277628" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -646,7 +813,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5011338" side_tool="true" weight="0.1887287" />
       <window_info active="true" anchor="bottom" id="Concurrent Activities Diagram" order="11" weight="0.32896462" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32658568" />
-      <window_info anchor="bottom" x="-25" y="61" width="1367" height="859" id="Python Console" order="13" weight="0.40706807" />
+      <window_info anchor="bottom" x="-25" y="61" width="1367" height="859" id="Python Console" order="13" weight="0.40575916" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -727,99 +894,101 @@
     <MESSAGE value="面向对象1" />
     <MESSAGE value="2018-9-21" />
     <MESSAGE value="多线程1" />
-    <option name="LAST_COMMIT_MESSAGE" value="多线程1" />
+    <MESSAGE value="计算器完成" />
+    <MESSAGE value="多进程、多线程、线程锁，信号量" />
+    <option name="LAST_COMMIT_MESSAGE" value="多进程、多线程、线程锁，信号量" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <url>file://$PROJECT_DIR$/XDL/python/Part_1/Day10/1.py</url>
           <line>19</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <url>file://$PROJECT_DIR$/XDL/python/Part_1/Day10/1.py</url>
           <line>20</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <url>file://$PROJECT_DIR$/XDL/python/Part_1/Day10/1.py</url>
           <line>21</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <url>file://$PROJECT_DIR$/XDL/python/Part_1/Day10/1.py</url>
           <line>22</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <url>file://$PROJECT_DIR$/XDL/python/Part_1/Day10/1.py</url>
           <line>25</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <url>file://$PROJECT_DIR$/XDL/python/Part_1/Day10/1.py</url>
           <line>26</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <url>file://$PROJECT_DIR$/XDL/python/Part_1/Day10/1.py</url>
           <line>27</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <url>file://$PROJECT_DIR$/XDL/python/Part_1/Day10/1.py</url>
           <line>30</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <url>file://$PROJECT_DIR$/XDL/python/Part_1/Day10/1.py</url>
           <line>31</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <url>file://$PROJECT_DIR$/XDL/python/Part_1/Day10/1.py</url>
           <line>32</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <url>file://$PROJECT_DIR$/XDL/python/Part_1/Day10/1.py</url>
           <line>35</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <url>file://$PROJECT_DIR$/XDL/python/Part_1/Day10/1.py</url>
           <line>36</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <url>file://$PROJECT_DIR$/XDL/python/Part_1/Day10/1.py</url>
           <line>37</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <url>file://$PROJECT_DIR$/XDL/python/Part_1/Day10/1.py</url>
           <line>38</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <url>file://$PROJECT_DIR$/XDL/python/Part_1/Day10/1.py</url>
           <line>39</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <url>file://$PROJECT_DIR$/XDL/python/Part_1/Day10/1.py</url>
           <line>33</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <url>file://$PROJECT_DIR$/XDL/python/Part_1/Day10/1.py</url>
           <line>28</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/XDL/hsq/Day10/1.py</url>
+          <url>file://$PROJECT_DIR$/XDL/python/Part_1/Day10/1.py</url>
           <line>23</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
@@ -827,166 +996,35 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/作业(2018-9-13)/查找Py文件.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/作业(2018-9-13)/buy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1566">
-          <caret line="77" column="13" lean-forward="true" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day09/register.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-20">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day09/black_userinfo.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day09/login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="41" column="18" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day09/buy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="41" column="29" lean-forward="true" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/programming_python-Gz4A-Rrx/Lib/functools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13112">
-          <caret line="283" column="32" lean-forward="true" selection-start-line="283" selection-start-column="32" selection-end-line="283" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Part_8/toplevel2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Part_8/dlg1.pyw.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Part_8/quitter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-2013894621/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="4944" column="8" selection-start-line="4944" selection-start-column="8" selection-end-line="4944" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day11/3.py" />
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/test_py/1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day10/3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day10/2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day10/1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-          <folding>
-            <marker date="1537266458978" expanded="true" signature="166:175" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day11/demo2.py" />
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day11/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day11/bullet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day11/person.py">
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day11/person.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day11/gun.py">
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day11/gun.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day11/demo.py">
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day11/demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
           <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day04/2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day11/demo1.py">
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day11/demo1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day12/5.py">
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day12/5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3834">
           <caret line="142" column="19" lean-forward="true" selection-start-line="142" selection-start-column="19" selection-end-line="142" selection-end-column="19" />
@@ -1010,27 +1048,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day12/1.py">
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day12/1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day12/2.py">
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day12/2.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day12/3.py">
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day12/3.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day12/4.py">
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day12/4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
           <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day12/text.py">
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day12/text.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
@@ -1045,7 +1083,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day13/2.py">
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day13/2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
@@ -1092,7 +1130,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day13/1.py">
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day13/1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/笔记/day4.md">
@@ -1103,44 +1141,147 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day13/3.py">
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day13/3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day13/4.py">
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day13/4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day16/2.py">
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day16/2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day16/3.py">
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day16/互亿无线-短信验证码接口文档/DEMO/C/sms.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day16/3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day05/1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day05/2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day04/3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day04/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day04/2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day16/3、多任务介绍.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day16/4、不带多进程的程序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day16/5、多进程优化程序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day16/6、父子进程结束顺序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day16/7、多进程与全局变量.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-232" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day16/8、进程池.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/hsq/Day15/gui_calc.py">
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day16/9、多线程.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day16/10、创建多线程.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day16/11、线程的数据共享.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day16/12、互斥锁.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="43" column="37" lean-forward="true" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+        <state relative-caret-position="270">
+          <caret line="19" selection-start-line="19" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day16/13、信号量.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day16/14、凑够数才结束.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/代码收藏/parit_1复习.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/test_py/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Day15/gui_calc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1242">
+          <caret line="23" column="6" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
         </state>
       </provider>
     </entry>
