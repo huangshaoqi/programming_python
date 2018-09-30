@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b60cb87d-1553-4c34-808c-501125b29ad6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/XDL/python/Part_1/Task/card.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XDL/python/Part_1/Task/gui_calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XDL/python/Part_1/Task/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XDL/python/Part_1/Task/operation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XDL/python/Part_1/Task/person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XDL/python/Part_1/Task/user.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/XDL/python/Part_1/Task/view.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/programming_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/programming_python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/代码收藏/储蓄卡项目思路.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XDL/python/Part_1/Day15/gui_calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Day15/gui_calc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/python/Part_1/Task/operation.py" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Task/operation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XDL/python/Part_1/Task/user.txt" beforeDir="false" afterPath="$PROJECT_DIR$/XDL/python/Part_1/Task/user.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/代码收藏/parit_1复习.md" beforeDir="false" afterPath="$PROJECT_DIR$/代码收藏/python基础总结.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +42,7 @@
     <SUITE FILE_PATH="coverage/programming_python$2__1_.coverage" NAME="2 (1) Coverage Results" MODIFIED="1538017616453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/Day16" />
     <SUITE FILE_PATH="coverage/programming_python$4__1_.coverage" NAME="4 (1) Coverage Results" MODIFIED="1537519519820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/Day13" />
     <SUITE FILE_PATH="coverage/programming_python$3__1_.coverage" NAME="3 (1) Coverage Results" MODIFIED="1538030224079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/Day16" />
-    <SUITE FILE_PATH="coverage/programming_python$main.coverage" NAME="main Coverage Results" MODIFIED="1538221995760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/python/Part_1/Task" />
+    <SUITE FILE_PATH="coverage/programming_python$main.coverage" NAME="main Coverage Results" MODIFIED="1538269530840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/python/Part_1/Task" />
     <SUITE FILE_PATH="coverage/programming_python$4.coverage" NAME="4 Coverage Results" MODIFIED="1537430255396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XDL/hsq/Day12" />
     <SUITE FILE_PATH="coverage/programming_python$gui1g.coverage" NAME="gui1g Coverage Results" MODIFIED="1536576244161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_7" />
     <SUITE FILE_PATH="coverage/programming_python$gui4.coverage" NAME="gui4 Coverage Results" MODIFIED="1536757732523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Part_7" />
@@ -159,20 +154,20 @@
     <session id="-1011097223">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.10" value="4" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="4" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.open.time.9" value="5" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="c" value="1" />
-          <entry key="md" value="8" />
+          <entry key="md" value="10" />
           <entry key="py" value="40" />
           <entry key="txt" value="3" />
         </counts>
@@ -180,7 +175,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="C++" value="1" />
-          <entry key="Markdown" value="8" />
+          <entry key="Markdown" value="10" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="Python" value="40" />
         </counts>
@@ -188,18 +183,20 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="338" />
-          <entry key="md" value="45" />
-          <entry key="py" value="6082" />
-          <entry key="txt" value="44" />
+          <entry key="md" value="1998" />
+          <entry key="py" value="6083" />
+          <entry key="txt" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="45" />
-          <entry key="PLAIN_TEXT" value="44" />
-          <entry key="Python" value="6420" />
+          <entry key="CommandLine" value="2" />
+          <entry key="HTML" value="1" />
+          <entry key="Markdown" value="1995" />
+          <entry key="PLAIN_TEXT" value="48" />
+          <entry key="Python" value="6421" />
         </counts>
       </usages-collector>
     </session>
@@ -213,7 +210,7 @@
         <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Task/view.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+              <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -221,8 +218,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Task/person.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="162">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -230,22 +227,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Task/card.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="19" />
+            <state relative-caret-position="81">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Task/operation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1285">
-              <caret line="175" column="30" lean-forward="true" selection-start-line="175" selection-start-column="30" selection-end-line="175" selection-end-column="30" />
+            <state relative-caret-position="-5184">
+              <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
               <folding>
-                <element signature="e#7#16#0" expanded="true" />
-                <marker date="1538221989912" expanded="true" signature="289:320" ph="..." />
-                <marker date="1538221989912" expanded="true" signature="1983:2254" ph="..." />
-                <marker date="1538221989912" expanded="true" signature="3047:3392" ph="..." />
+                <marker date="1538269771838" expanded="true" signature="289:320" ph="..." />
+                <marker date="1538269771838" expanded="true" signature="1983:2254" ph="..." />
               </folding>
             </state>
           </provider>
@@ -254,11 +249,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Task/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
-              <caret line="30" column="35" lean-forward="true" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+            <state relative-caret-position="27">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
-                <element signature="e#88#115#0" expanded="true" />
+                <element signature="e#88#132#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/代码收藏/储蓄卡项目思路.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="135">
+                <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/代码收藏/python基础总结.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="631">
+                <caret line="372" column="3" selection-start-line="372" selection-start-column="3" selection-end-line="372" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -284,8 +303,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/XDL/hsq/Day08/1.py" />
-        <option value="$PROJECT_DIR$/XDL/hsq/Day08/作业.py" />
         <option value="$PROJECT_DIR$/XDL/hsq/作业(2018-9-13)/register.py" />
         <option value="$PROJECT_DIR$/XDL/hsq/Day09/register.py" />
         <option value="$PROJECT_DIR$/XDL/hsq/作业(2018-9-13)/buy.py" />
@@ -335,6 +352,8 @@
         <option value="$PROJECT_DIR$/XDL/python/Part_1/Task/main.py" />
         <option value="$PROJECT_DIR$/XDL/python/Part_1/Task/view.py" />
         <option value="$PROJECT_DIR$/XDL/python/Part_1/Task/operation.py" />
+        <option value="$PROJECT_DIR$/代码收藏/储蓄卡项目思路.md" />
+        <option value="$PROJECT_DIR$/代码收藏/python基础总结.md" />
       </list>
     </option>
   </component>
@@ -350,8 +369,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="774" />
-    <option name="y" value="38" />
+    <option name="x" value="662" />
+    <option name="y" value="8" />
     <option name="width" value="2762" />
     <option name="height" value="1790" />
   </component>
@@ -371,6 +390,22 @@
               <item name="programming_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="programming_python" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="programming_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="programming_python" type="462c0819:PsiDirectoryNode" />
+              <item name="XDL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="programming_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="programming_python" type="462c0819:PsiDirectoryNode" />
+              <item name="XDL" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="programming_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="programming_python" type="462c0819:PsiDirectoryNode" />
+              <item name="代码收藏" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -379,7 +414,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/day18/day18" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -668,7 +703,14 @@
       <option name="project" value="LOCAL" />
       <updated>1538182041070</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="储蓄卡">
+      <created>1538223549550</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1538223549550</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TodoView">
@@ -682,14 +724,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="895" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.57978725" visible="true" weight="0.25396827" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.57978725" weight="0.25699168" />
       <window_info id="Structure" order="1" sideWeight="0.42021278" side_tool="true" weight="0.24263039" />
       <window_info id="Favorites" order="2" sideWeight="0.41546527" side_tool="true" weight="0.19803476" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32896462" />
-      <window_info anchor="bottom" x="-16" y="349" width="1299" height="333" id="Run" order="2" sideWeight="0.4988662" weight="0.395806" />
+      <window_info anchor="bottom" x="-16" y="349" width="1299" height="333" id="Run" order="2" sideWeight="0.4988662" weight="0.37834394" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2277628" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -701,6 +743,7 @@
       <window_info active="true" anchor="bottom" id="Concurrent Activities Diagram" order="11" weight="0.32896462" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32658568" />
       <window_info anchor="bottom" x="-25" y="61" width="1367" height="859" id="Python Console" order="13" weight="0.37876803" />
+      <window_info anchor="bottom" id="Messages" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -784,7 +827,8 @@
     <MESSAGE value="计算器完成" />
     <MESSAGE value="多进程、多线程、线程锁，信号量" />
     <MESSAGE value="修正" />
-    <option name="LAST_COMMIT_MESSAGE" value="修正" />
+    <MESSAGE value="储蓄卡" />
+    <option name="LAST_COMMIT_MESSAGE" value="储蓄卡" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -884,9 +928,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/ProgramData/Anaconda3/Lib/email/mime/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://C:/ProgramData/Anaconda3/Lib/email/utils.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1110,16 +1151,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/代码收藏/parit_1复习.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/test_py/1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
@@ -1147,50 +1178,68 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Task/user.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Task/person.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="162">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Task/card.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="19" />
+        <state relative-caret-position="81">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Task/user.txt">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Task/view.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Task/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="30" column="35" lean-forward="true" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+        <state relative-caret-position="27">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
-            <element signature="e#88#115#0" expanded="true" />
+            <element signature="e#88#132#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/XDL/python/Part_1/Task/operation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1285">
-          <caret line="175" column="30" lean-forward="true" selection-start-line="175" selection-start-column="30" selection-end-line="175" selection-end-column="30" />
+        <state relative-caret-position="-5184">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding>
-            <element signature="e#7#16#0" expanded="true" />
-            <marker date="1538221989912" expanded="true" signature="289:320" ph="..." />
-            <marker date="1538221989912" expanded="true" signature="1983:2254" ph="..." />
-            <marker date="1538221989912" expanded="true" signature="3047:3392" ph="..." />
+            <marker date="1538269771838" expanded="true" signature="289:320" ph="..." />
+            <marker date="1538269771838" expanded="true" signature="1983:2254" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/代码收藏/储蓄卡项目思路.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/代码收藏/python基础总结.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="631">
+            <caret line="372" column="3" selection-start-line="372" selection-start-column="3" selection-end-line="372" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

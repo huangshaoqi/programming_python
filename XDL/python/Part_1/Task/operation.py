@@ -259,4 +259,5 @@ class Operation:
 
     def exit(self):
         """0.退出"""
+        self.save()
         sys.exit()
