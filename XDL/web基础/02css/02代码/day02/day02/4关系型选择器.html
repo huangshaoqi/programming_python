@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>关系选择器</title>
+	<style>
+		/*后代选择器
+			选择器和选择器之间用空格隔开
+		*/
+		/*.box1 p{
+			color:pink;
+		}*/
+		/*子选择器
+			只查找 指定元素的子元素
+		*/
+		/*.box1>p{
+			color:purple;
+		}*/
+		/*组选择器,并列选择器
+			同事给多个元素设置 相同的样式
+		*/
+		.box4{
+			width:300px;
+			height:300px;
+			background: yellow;
+		}
+		.box1>p,.box3,.inner{
+			width:100px;
+			height:100px;
+			background-color: blue;
+		}
+	</style>
+</head>
+<body>
+	
+	<div class="box1">
+		<p>这是一个段落</p>
+		<div class="box2">
+			<p>这是box2的p</p>
+		</div>
+	</div>
+	<p>这是外面的p</p>
+
+	<div class="box3">3</div>
+	<div class="box4">
+		<div class="inner">inner</div>
+		box4
+	</div>
+</body>
+</html>

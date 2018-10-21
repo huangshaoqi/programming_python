@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		body{
+			margin:0;
+			/*border:1px solid yellow;*/
+			overflow:hidden;
+		}
+		.wrap{
+			width:600px;
+			height:600px;
+			background:green;
+			/*塌陷问题
+				如果父元素没有设置边框 使用margin-top时 会引起塌陷
+				1.给父元素添加边框
+				2.给父元素添加 overflow:hidden;
+				3.给父元素添加伪类 推荐使用
+			*/
+			border:0px solid red;
+			overflow: hidden;
+
+			margin-top:100px;
+		}
+		.box{
+			width: 200px;
+			height: 200px;
+			background:red;
+			margin-top:100px;
+		}
+		.clear:before{
+			content:' ';
+			display:table;
+		}
+	</style>
+</head>
+<body class="clear">
+	
+	<div class="wrap">
+		<div class="box"></div>
+	</div>
+</body>
+</html>

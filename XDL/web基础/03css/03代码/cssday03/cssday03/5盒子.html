@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+	/*
+		盒子:一个元素在页面中成为一个盒子;
+		元素的实际width:csswidth+border左右宽度+padding左右padding;
+		元素的实际height:cssheight+border上下宽度+padding上下padding;
+
+
+	 */
+		*{margin:0;padding:0;}
+		.box1{
+			width: 150px;
+			height: 150px;
+			background:#000;
+		}
+		.box2{
+			width: 150px;
+			height: 150px;
+			background:#000;
+			border:20px yellow solid;
+			box-sizing: border-box;
+		}
+		.box3{
+			width: 150px;
+			height: 150px;
+			background:#000;
+			border:20px yellow solid;
+			padding:20px;
+			color:#fff;
+
+			box-sizing: border-box;
+		}
+	</style>
+</head>
+<body>
+	<div class="box1"></div>
+	<div class="box2"></div>
+	<div class="box3">123</div>
+</body>
+</html>

@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+
+<body>
+    <p>请输入你的分数</p>
+    <label for="ipt1">
+        分数:
+    </label>
+    <input type="text" id="ipt1" name="分数" style="width: 50px">
+    <br><br>
+    <button id="btn1" onclick="myfunc()">成绩</button><input type="text" id="ipt2" style="width: 50px">
+    <script>
+    var a = 1;
+
+    function func() {
+        a = 2;
+        console.log("函数里1：" + a);
+        // var a = 3;
+        // console.log("函数里2：" + a);
+    };
+    console.log(a);
+    func();
+    console.log(a);
+    x = 5;
+    y = 5;
+    console.log(x === y);
+    console.log(x == y);
+
+    function myfunc() {
+        Oipt1 = document.getElementById("ipt1");
+        Oipt2 = document.getElementById("ipt2");
+        if (Oipt1.value >= 90) {
+            Oipt2.value = '优秀';
+        } else if (Oipt1.value >= 70) {
+            Oipt2.value = "良好";
+        } else if (Oipt1.value >= 60) {
+            Oipt2.value = "及格";
+        } else {
+            Oipt2.value = "不及格";
+        }
+    };
+
+    var n = 1;
+    switch (n) {
+        case 1:
+            console.log("n的值:" + n);
+            break;
+        case 2:
+            console.log("n的值:" + n);
+            break;
+        default:
+            console.log("n的值:" + n);
+            break;
+    };
+
+    arr = [0, 1, 2, 3, 4, 5, 6];
+    console.log(arr.length);
+    console.log(arr);
+    // arr.splice(3);
+    // console.log(arr.length);
+    // console.log(arr);
+    arr.splice(1, 1, "二");
+    console.log(arr.length);
+    console.log(arr);
+    arr.splice(-6, 3, "三", "四");
+    console.log(arr.length);
+    console.log(arr);
+
+    var s = "men";
+    sex = (s == "men") ? "男" : "女";
+    console.log(sex);
+
+    var arr = new Array();
+    console.log(arr.constructor);
+    console.log(arr.constructor.toString().indexOf("Arrary"));
+
+    function my_random(a, b) {
+        return Math.floor(Math.random() * (b - a + 1) + a)
+    };
+    //100，105
+    console.log(my_random(100, 105));
+
+    setInterval(function() {
+        //"rgb(2,3,4)"
+        document.getElementById("d1").style.background = 'rgb(' + my_random(0, 255) + ',' + my_random(0, 255) + ',' + my_random(0,255) + ')';
+    }, 100);
+
+    </script>
+
+    <br><br>
+    <button onclick='this.innerHTML=Date()'>Time</button>
+    <br><br>
+    <div id="d1" style="width: 100px;height: 100px;border: 1px solid red;"></div>
+
+    <div style="width: 100px;height: 100px,border:2px solid green"><a id="d2">姓名</a></div>
+    <button onclick="start_name()">开始</button>
+    <button onclick="stop_name()">结束</button>
+    <script>
+    	Od2 = document.getElementById("d2");
+    	var Objarr = ["王寒粼","马乐","aaa","bbb","ccc","ddd","ccc"];
+    	console.log(Objarr);
+
+    	var t1;
+    	var flag= false;
+    	function start_name(){
+    		if(flag==false){
+    			t1 = setInterval(print_name,300,Objarr);
+    			flag = true;
+    		};
+    		
+    	};
+
+    	function stop_name(){
+    		clearInterval(t1);
+    		flag = false;
+    	};
+
+
+    	
+
+    	function print_name(arr){
+    		num = my_random(0,arr.length-1);
+    		Od2.innerHTML = "<h1>" + arr[num] + "</h1>";
+    	};
+    </script>
+</body>
+
+</html>

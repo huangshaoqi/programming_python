@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <script src="./jquery-1.8.3.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            list-style: none
+        }
+
+        .wrap {
+            width: 400px;
+            height: 400px;
+            border: 1px solid red;
+
+        }
+
+        .title {
+            overflow: hidden;
+        }
+
+        .title li {
+            width: 100px;
+            height: 50px;
+            border: 1px solid red;
+            float: left;
+            box-sizing: border-box;
+            text-align: center;
+            line-height: 50px;
+            cursor: pointer;
+
+        }
+
+        .title .active {
+            background: red;
+        }
+
+        .content li {
+            height: 350px;
+            border: 1px solid red;
+
+            display: none;
+        }
+
+        .content .active1 {
+            display: block;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="wrap">
+        <ul class='title'>
+            <li class="active">话费</li>
+            <li>机票</li>
+            <li>酒店</li>
+            <li>游戏</li>
+        </ul>
+        <ul class="content">
+            <li class="active1">充话费 约妹子</li>
+            <li>订机票 找妹子</li>
+            <li>订酒店 等俩妹子</li>
+            <li>三人斗地主</li>
+        </ul>
+    </div>
+    <script>
+        // 给表题添加单击事件
+        $('.title li').click(function () {
+            // $(this) 代表当前触发单击事件的元素  谁触发的事件$(this)就代表谁
+            $(this).addClass('active').siblings().removeClass('active');
+            // 1.给当前单击的元素添加 active属性
+            // $(this).addClass('active');
+            // 2.清除其他兄弟元素的active属性,要保证自己有active
+            // var els = $(this).siblings();
+            // 3.将所有的同级元素的active删除  不管有还是没有都要删除
+            // els.removeClass('active');
+            // 获取当前单击的标题的索引    标题的索引和内容的索引一一对应 拿到标题的索引去关联内容
+            var I = $(this).index();
+            // 根据标题的索引找对应的内容
+            $('.content li').eq(I).addClass('active1').siblings().removeClass('active1');
+        })
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+        #ipt1,#ipt2,#ipt3 {
+				width: 50px;
+
+			}
+	</style>
+</head>
+
+<body>
+    <img src="./img/p1.png" alt="" id="img">
+    <script>
+        var n = 1;
+
+        st1 = setInterval(Img,600);
+		
+		setTimeout(function(){
+			clearInterval(st1);
+		},3000);
+
+		function Img(){
+			console.log(n);
+			img = document.getElementById("img");
+			img.src= "./img/p" + n + ".png";
+			n++;
+			if(n > 5){
+				n = 1;
+			}
+		};
+	// console.log(window.navigator);
+	Obj_nav = window.navigator;
+	Obj_screen = window.screen;
+	Obj_history = window.history;
+	Obj_location = window.location;
+
+	for(var i in Obj_nav){
+		console.log(i + "\t\t" + Obj_nav[i]);
+	}
+
+	for(var i in Obj_screen){
+		console.log(i + " ========= " + Obj_screen[i]);
+	}
+	for(var i in Obj_history){
+		console.log(i + " ---------> " + Obj_history[i]);
+	}
+	for(var i in Obj_location){
+		console.log(i + " ########## " + Obj_location[i]);
+	}
+
+	</script>
+    <br>
+    <label id="p1">
+        <input type="text" id="ipt1" name="a"> + <input type="text" id="ipt2" name="b"> = <input type="text" id="ipt3" name="c">
+    </label> <br><br>
+    <input type="button" value="计算" onclick="myfunc()">
+    <script>
+    Op1 = document.getElementById("ipt1");
+    Op2 = document.getElementById("ipt2");
+    Op3 = document.getElementById("ipt3");
+    var myfunc = function() {
+        var a = parseInt(Op1.value);
+        var b = parseInt(Op2.value);
+        Op1.value = a;
+        Op2.value = b;
+        var c = a + b;
+        Op3.value = c;
+    }
+    </script>
+    <hr>
+    <div style="width:120px;height:120px;background-color: #3AC47FFF" id="div1">
+    </div>
+    <script>
+    var myfun = function(m) {
+        Odiv = document.getElementById("div1");
+        Odiv.style.width = m + 'px';
+        Odiv.style.height = m + 'px';
+        Odiv.style.backgroundColor = '#3AC47FFF';
+        if (m = 10) {
+            m = 120;
+        }
+    };
+
+    setInterval(function(){
+        for (var m = 120; m > 10; m--) {
+            setTimeout(myfun, m * 20, m);
+        }
+    },600)
+
+    
+
+    </script>
+</body>
+
+</html>

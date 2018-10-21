@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		*{margin:0;padding:0;}
+		.box1{
+			width:100px;
+			height: 100px;
+			background: pink;
+			/*浮动 左*/
+			float:left;
+			/*右浮动*/
+			/*float:right;*/
+		}
+		.box2{
+			width: 100px;
+			height: 100px;
+			background: red;
+			float:left;
+		}
+		.box3{
+			width:100px;
+			height: 100px;
+			background: #0f0;
+			float:left;
+		}
+		.box4{
+			width: 100px;
+			height: 100px;
+			background: blue;
+			float:left;
+			/*清除浮动 clear:left*/
+			/*clear:left;*/
+		}
+		.box5{
+			width:100px;
+			height: 100px;
+			background: #871;
+		}
+		.wrap{
+			width: 400px;
+			/*height: 100px;*/
+			border:3px solid #000;
+
+			/*overflow: hidden;*/
+		}
+		.wrap1{
+			width:100%;
+			height:200px;
+			background:#557;
+		}
+		/*清除浮动*/
+		.box6{
+			/*清除做浮动和有浮动对我产生的影响*/
+			clear:both;
+		}
+		.clearfloat:after{
+			content:' ';
+			display:block;
+			clear:both;
+		}
+	</style>
+</head>
+<body>
+	<!-- 
+		1、浮动元素只有左浮动(float:left)和右浮动(float:right)两种
+		2、一个浮动元素会尽量向左或向右移动，直到它的外边缘碰到父级边框或另一个浮动元素的边框为止
+		3、浮动元素后面如果有不浮动的元素会占据浮动元素的位置(脱离文档流) ，没有浮动的元素内的文字会避开浮动的元素，形成文字饶图的效果
+		5、父元素内素有的子元素都浮动无法撑开父元素，需要清除浮动
+			1.给父元素设置固定的高度
+			2.给父元素添加overflow:hidden;
+			3.在父元素最后添加空标签 clear:both
+			4.给父元素添加伪类  推荐使用
+	 -->
+	 <div class="wrap clearfloat">
+		<div class="box1">1</div>
+		<div class="box2">2</div>
+		<div class="box3">3</div>
+		<div class="box4">4</div>
+		<div class="box4">4</div>
+		<!-- <div class="box5">5</div> -->
+		<!-- <div class="box6"></div> -->
+	 </div>
+	 <div class="wrap1"></div>
+	
+</body>
+</html>

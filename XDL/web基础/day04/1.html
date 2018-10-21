@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		.div1{
+			width: 600px;
+			height: 600px;
+			background-color: #4800FFFF;
+			margin-top: 100px;
+			/*overflow: hidden;*/
+		}
+		.div2{
+			width: 200px;
+			height: 200px;
+			background-color: red;
+			margin-top: 100px;
+		}
+		.div3{
+			width: 200px;
+			height: 200px;
+			background-color: yellow;
+			padding-top: 10px;
+			padding-left: 10px;
+			padding-right: 10px;
+			padding-bottom: 10px;
+			box-sizing: border-box;
+		}
+		.clear:before{
+			content: " ";
+			display: table;
+		}
+	</style>
+</head>
+<body class="clear">
+	<div class="div1">
+		<div class="div2"></div>
+	</div>
+	<div class="div3">2323</div>
+</body>
+</html>

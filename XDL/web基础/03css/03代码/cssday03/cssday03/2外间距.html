@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>外边间距</title>
+	<style>
+		body{margin:0;}
+		.wrap{
+			width:600px;
+			height:600px;
+			border:1px solid red;
+		}
+		.box1{
+			width: 100px;
+			height:100px;
+			background:green;
+			/*设置外间距*/
+			/*margin-left:100px;
+			margin-top:100px;
+			margin-right:100px;*/
+			/*margin-bottom:100px;*/
+			/*简写
+				四个值  顺时针 上 右  下 左
+				一个值  代表四个边的间距
+				两个值  对边 上下 左右
+				三个值  上   左右   下
+			*/
+
+			/*margin:20px 50px 70px 	100px;*/
+			/*margin:20px;*/
+			/*margin: 20px 100px;*/
+			/*margin:20px 100px 50px;*/
+			/*使用margin值让块元素水平居中*/
+			/*margin-left:250px;*/
+			margin:0 auto;
+		}
+		.box2{
+			width: 100px;
+			height:100px;
+			background:pink;
+			/*margin-top:200px;*/
+			margin-left:700px;
+			/*margin-right:610px;*/
+
+		}
+	</style>
+</head>
+<body>
+	<!-- 
+		margin-top/left/right/bottom: 设置当前元素距离外部元素的距离
+		两个垂直的元素 设置了margin-bottom 下面的设置了margin-top 垂直的margin值会重合 以margin值大的为准
+
+		
+	 -->
+	<div class="wrap">
+		<div class="box1"></div>
+		<div class="box2"></div>
+	</div>
+</body>
+</html>

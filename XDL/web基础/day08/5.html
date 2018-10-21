@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>222</title>
+    <script src="./../js/jquery.js"></script>
+
+</head>
+
+<body>
+    <script>
+        $("body").on("click", ".newBtn", func);
+
+        function func() {
+            var btn = $("<button class='newBtn btn'>新按钮</button>");
+            $('body').append(btn);
+        };
+    </script>
+    <button class=" add btn btn-default">添加按钮</button>
+</body>
+
+</html>

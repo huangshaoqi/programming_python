@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		.box{
+			width:500px;
+			height:300px;
+			background:red;
+			/*color:rgb(5,155,100);*/
+			/*
+				谷歌默认字体大小为16px  最小12px
+			 */
+			font-size:20px;
+			/*文字的字体 所设置的字体必须系统存在,如果不存在则以默认字体显示*/
+			font-family:楷体; 
+			/*设置斜体*/
+			/*font-style:italic; */
+			/*加粗*/
+			font-weight:bold;
+
+			/*行高*/
+			line-height:30px;
+			
+		}
+		.box i{
+			/*去除斜体*/
+			font-style:normal;
+		}
+
+		.box2{
+			width:200px;
+			height:200px;
+			background-color:#00ff00;
+			
+			/*设置单行文本的垂直居中  值等于父元素的高度*/
+			/*line-height: 200px;*/
+			/*文本的水平对齐方式 默认文字靠左显示 center right left*/
+			/*text-align:right;*/
+			text-indent:32px;
+		}
+		a{	
+			/*去除下划线*/
+			/*text-decoration:none;
+			text-decoration:overline;*/
+			text-decoration: blink;
+			color:#666;
+		}
+
+	</style>
+</head>
+<body>
+	<div class="box">
+		<i>
+		olor 设置文字的颜色，如： color:red;
+		font-size 设置文字的大小，如：font-size:12px;
+		font-family 设置文字的字体，如：font-family:微软雅黑;
+		font-style 设置字体是否倾斜，如：font-style:normal; 设置不倾斜，font-style:italic;设置文字倾斜
+		font-weight 设置文字是否加粗，如：font-weight:bold; 设置加粗 font-weight:normal 设置不加粗
+		</i>
+	</div>
+	<div class="box2">
+		color:red;
+
+	</div>
+	<a href="http://www.baidu.com">百度美女大图</a>
+</body>
+</html>

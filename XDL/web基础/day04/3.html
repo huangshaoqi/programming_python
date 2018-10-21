@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <title>bootstrap练习</title>
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div class="row" style="height: 120px;background: #FFD800FF;"></div>
+    </div>
+    <nav class="navbar navbar-btn">
+        <div class="container-fluid">
+            <ul class="nav navbar-nav" id="ul">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Link</a></li>
+                <li><a href="#">Link</a></li>
+            </ul>
+
+            <label for="username">
+                用户名:<input type="text" id="username" name="username">
+            </label>
+
+        </div>
+        <script>
+        var Oli = document.getElementById("ul");
+        console.log(Oli);
+        var firstli = Oli.firstChild;
+        console.log(firstli);
+
+        
+        var Oinp = document.getElementById("username");
+        Oinp.value = "胡";
+        console.log(Oinp.value);
+        </script>
+
+        <p id="p1">fwefwef</p>
+        <script>
+        	var Op = document.getElementById("p1");
+        	Op.innerHTML = "<h1>dsfafsdfsf</h1>";
+        	console.log(Op.innerHTML);
+        	console.log(Op.innerText);
+        	setTimeout(function(){
+        		alert("OK");
+        	}, 10000)
+        </script>
+        
+    </nav>
+</body>
+
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>选择器</title>
+	<style>
+		/*通配符选择器*/
+		*{margin:0;}
+
+
+		/*标签选择器
+			影响范围最大
+		*/
+		div{
+			width:200px;
+			height:200px;
+			background-color:pink;
+		}
+		/*id选择器
+			页面当中id属性的值不能重复 影响范围最小
+		*/
+		#item1{
+			/*width:500px;
+			height:100px;*/
+			background-color:green;
+		}
+		
+		/*class类选择器
+			影响范围: 元素>类选择器>id选择器;
+			
+		*/
+		.box1{
+			width:100px;
+			height:100px;
+			background-color:yellow;
+		}
+		.box2{
+			font-size:30px;
+		}
+	</style>
+</head>
+<body>
+	<!-- 
+		优先级:元素<类选择器<id选择器;
+	 -->
+	<div id="item1" class="box1">1</div>
+	<div class="box1 box2">2</div>
+</body>
+</html>

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>表单</title>
+</head>
+<body>
+	<!-- 
+		{'username':1234;sex:0,love:[1,2]}
+		form 定义表单域
+		普通文本输入框: text
+		密码框:password
+		单选框: radio  一组单选name的值必须相同 必须设置默认值
+		多选框: checkbox  一组多选name的值必须相同 必须设置默认值
+		隐藏域: hidden   不需要用户修改和看到的信息  但是后台还需要的信息
+		上传控件:file   选取文件
+		下拉列表: select>option 必须设置默认值
+		多行文本输入框: textarea
+		提交按钮:
+			type="submit"  写在form 内有提交意义  外面只是单纯的按钮
+			button 标签    写在form 内有提交意义  外面只是单纯的按钮
+			type="button"  也不具有提交意义
+		重置按钮: reset 恢复到初始状态
+
+		placeholder: 提示信息
+		checked:   单选和多选的默认选中状态
+		selected:  下拉框的默认相中状态
+		disabled:  禁用
+		action: 指定数据的提交地址
+		method: 指定提交方式
+			get:  将数据 明文显示到地址栏 受浏览器限制 数据有大小限制 
+			post: 将数据 不会明文显示到地址栏  数据理论没有大小限制
+		enctype="multipart/form-data"  有文件上传时必须添加 给文件转码
+		form(表单) 默认get方式传参
+			一般使用时都是post 
+	 -->
+	<form action="1.py" method="POST"  enctype="multipart/form-data">
+		用户名: <input type="text" name="username" value=""  placeholder="请输入用户名" maxlength="8"> <br>
+		密码:   <input type="password" name="pwd" disabled> <br>
+		性别:   <input type="radio" name="sex" value="1" > 男
+				<input type="radio" name="sex" value="0" checked> 女
+		<br>
+		爱好:   <br>
+				<input type="checkbox" name="love" value="1"> 电动小汽车 <br>
+				<input type="checkbox" name="love" value="2" checked> 挖掘机  <br>
+		上传头像:
+			<input type="file" name="file">
+
+		<br>
+
+		住址: 
+			<select name="add">
+				<option>--请选择地址--</option>
+				<option value="0" selected>--北京--</option>
+				<option value="1">--上海--</option>
+			</select>
+		<br>
+		个人简介:
+		<textarea name="info" >我有一套200平米的大别墅</textarea>
+		<br>
+		<input type="hidden" name="id" value="1">
+		<!-- email -->
+		<input type="email" name="email">
+		<br>
+		<input type="submit" value="提交按钮"><br>
+		<button>确认</button> <br>
+		<input type="button" value="button">
+		<br>
+		<input type="reset" value="重置" disabled>
+		
+		<br>
+		<input type="image" src="./img/30.jpg">
+
+	</form>
+	
+	<button>外面的按钮</button> <br>
+	<input type="submit" value="提交按钮"><br>
+
+
+
+	<!-- ====================================== -->
+	<input type="color">
+	<input type="number">
+
+
+</body>
+</html>

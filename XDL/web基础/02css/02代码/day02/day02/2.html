@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		#item1{
+			color:green;
+			font-size:30px;
+		}
+	</style>
+	<!-- 引入外部的css文件 -->
+	<link rel="stylesheet" href="./1.css">
+</head>
+<body>
+	<!-- 嵌入式  将css代码通过style属性写入到html标签内 -->
+	<div style="color:red">这是一个块元素</div>
+	<!-- 内嵌式
+		通过在head标签内的style标签  将css写到html文档里
+	 -->
+	<div id="item1">想这事第二个块元素</div>
+	<!-- 外链式
+			通过在head中使用link标签从外部引入css文件
+	 -->
+	<div id="item2">这是第三个元素</div>
+</body>
+</html>

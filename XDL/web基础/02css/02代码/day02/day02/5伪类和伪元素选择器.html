@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		.box{
+			width:200px;
+			height:200px;
+			background: pink;
+		}
+		/*鼠标移入加载hover中的样式*/
+		.box:hover{
+			background:red;
+		}
+		/*在元素内部的最前面插入一个I*/
+		.box:before{
+			content:'I       ';
+		}
+		/*在元素内部的最后面插入一个 you*/
+		.box:after{
+			content:' "You" ';
+		}
+		
+		/*属性选择器*/
+		input[name=username]{
+			width:500px;
+		}
+		div[class=box]{
+			background-color:green;
+		}
+	</style>
+</head>
+<body>
+	<div class='box'>love</div>
+
+	<form action="">
+		<input type="text" name="username">
+		<input type="password" name="pwd">
+	</form>
+</body>
+</html>

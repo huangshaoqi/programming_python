@@ -1,0 +1,48 @@
+1.什么是HTML
+	超文本标记语言
+	制作网页的语言 由标签组成
+2.HTML基本结构
+	声明文档    <!DOCTYPE HTML>
+	根标签html  <html></html>   最大的标签
+	head头      <head></head>   网页设置 引入一些外连的css js文件
+	body体      <body></body>   所有直接显示在网页中的内容 都写到此标签
+3.标题标签
+	h1-h6   自动换行 有默认样式
+4.段落标签，实体字符
+	p    自动换行 有默认样式
+	&nbsp; &gt; &lt;
+5.快元素，行内元素
+	div  自动换行 没有默认样式  配合css左网页布局
+	span 不会自动换行 没有默认样式 配合css设置一段文本当值一部分文本样式
+	i,b,u,del,strong,em
+6.图片标签
+	img 单标签
+		src: 图片路径
+		alt: 图片描述信息 图片加载失败时显示
+		width: 宽度
+		推荐要么设置width 要么设置height  设置一边 另一边会等比例缩放
+7.超连接
+	a 
+		href:要跳转的资源路径
+		target:_blank   打开新的窗口 加载跳转的页面 
+
+8.列表
+	有序列表 ol>li
+		type: 设置编号的类型 可选的值 1 a A i I
+		start: 设置编号的起始位置
+	无序列表 ul>li
+9.表格
+	table>tr>td
+	table的属性:
+		border: 设置边框
+		cellspacing: 设置表格和表格之间的间距
+		cellpadding: 设置表格和表格内容之间的间距
+	设置对其方式:
+		水平对齐方式: align  默认靠左对齐 left center right
+		垂直对其方式: valign 默认居中对其 top middle bottom
+
+	单元格合并:
+		水平合并: colspan
+		垂直合并: rowspan
+		注意:合并实质上是设置当前单元格水平方向和垂直方向,所占居几个格的宽度和高度,多余的单元格删除
+

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		*{margin:0;padding:0;list-style: none}
+		.wrap{
+			width:599px;
+			height:50px;
+			/*border:1px solid red;*/
+			background:#c4c4c4;
+		}
+		.wrap>li{
+			display:inline-block;
+			width:100px;
+			height:50px;
+			border:1px solid blue;
+
+			box-sizing:border-box;
+
+			text-align:center;
+			line-height: 50px;
+		}
+		.item{
+			margin-left:-5px;
+			border-left:none;
+		}
+		.wrap>li:hover{
+			background:green;
+		}
+
+		.inner{
+			width:100px;
+			height:200px;
+			background:yellow;
+			position:absolute;
+			display:none;
+		}
+		.wrap>li:hover .inner{
+			display:block;
+		}
+	</style>
+</head>
+<body>
+	<ul class="wrap">
+		<li>首页
+			<ul class="inner">
+				<li>大陆</li>
+				<li>欧美</li>
+				<li>日韩</li>
+				<li>港台</li>
+			</ul>
+		</li>
+		<li class="item">电视剧
+			
+		</li>
+		<li class="item">电影</li>
+		<li class="item">动漫</li>
+		<li class="item">综艺</li>
+		<li class="item">在线影院</li>
+	</ul>
+</body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		.box1{
+			width:200px;
+			height:200px;
+			/*边框
+				solid实现，dotted点状线，dashed虚线
+			*/
+			/*border:red 1px solid;*/
+			border-top:pink 12px inset;
+			border-bottom:red 12px inset;
+			border-left:green 12px inset;
+			border-right:blue 12px inset;
+
+			/*圆角
+				左上 右上 右下 左下 
+				左上右下   右上左下
+				左上 右上左下  右下
+			*/
+			/*border-radius:10px 30px 50px 70px;*/
+			/*border-radius:10px 50px;*/
+			border-radius:10px 50px  100px;
+		}
+		.box2{
+			width:300px;
+			height:100px;
+			border:1px solid red;
+			border-radius:0  127px 70px 0;
+		}
+		.box2:hover{
+			width:500px;
+			border-radius:0  70px 127px 0;
+		}
+	</style>
+</head>
+<body>
+	<div class="box1"></div>
+	<div class="box2"></div>
+</body>
+</html>

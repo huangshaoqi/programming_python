@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		.box{
+			width: 200px;
+			height: 200px;
+			background: red;
+			/*margin:20px;*/
+			padding:20px;
+		}
+		.inner{
+			width:200px;
+			height: 200px;
+			background: green;
+			/*margin:20px;*/
+			/*padding:20px;*/
+			display:block;
+
+		}
+		img{
+			width:300px;
+			height:300px;
+			margin:20px;
+			display:block;
+		}
+
+		.box2{
+			width: 200px;
+			height: 200px;
+			background: pink;
+			/*display
+				none:隐藏元素;
+				inline : 让元素以内联元素类型显示;
+				inline-block: 让元素以内联块元素类型显示;
+			*/
+			/*display:none;*/
+			/*display:inline;*/
+			display:inline-block;
+		}
+	</style>
+</head>
+<body>
+	<!-- 
+		块元素
+			如果没有设置宽度 宽度是100% 如果不设置高度 高度由内容撑开
+			支持所有的样式
+			会独占一行,就算你设置了宽度
+		内联元素
+			支持部分属性: 不支持宽高 不支持margin的上下
+			宽高由内容决定: 如果没有内容 默认宽度0
+			盒子会并在一行显示
+		内联块元素
+			支持所有的样式
+			盒子会并在一行显示
+			如果没有内容 并且没有设置宽高 默认0
+	 -->
+	 123
+	 <div class="box">123</div>
+	 1234
+	 <span class="inner">内联元素123456</span>
+	 <span>2134356sdgui</span>
+	 <img src="../day02/img/21.jpg" alt="" >
+	 <input type="text">
+
+	 <div class="box2">1234</div>
+	 12345
+</body>
+</html>

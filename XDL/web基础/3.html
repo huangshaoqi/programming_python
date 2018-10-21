@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+    body {
+        text-align: center;
+    }
+
+    div {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        box-sizing: border-box;
+    }
+
+    .d {
+        width: 600px;
+        margin: 0 auto;
+
+    }
+
+    .border_style {
+        border: 2.5px solid black;
+    }
+
+    .left_float {
+        float: left;
+    }
+
+    .right_margin {
+        margin-right: 5px;
+    }
+
+    .top {
+        width: 100%;
+        height: 40px;
+    }
+
+    .clearfix:before,
+    .clearfix:after {
+        content: "";
+        display: table;
+    }
+
+    .clearfix:after {
+        clear: both;
+    }
+
+    .clearfix {
+        /*照顾ie6*/
+        zoom: 1;
+    }
+
+    .bottom {
+        width: 100%;
+        height: 40px;
+        background: #A8A8A8FF;
+        margin-top: 5px;
+
+    }
+
+    .box1,
+    .box3 {
+        background: #A8A8A8FF;
+        height: 100%;
+        width: 150px;
+    }
+
+    .box2 {
+        background: #E4A91AFF;
+        height: 100%;
+        width: 290px;
+    }
+
+    .box4 {
+        height: 35px;
+        width: 100%;
+        background: #A8A8A8FF;
+        margin-top: 5px;
+    }
+
+    .d3 {
+        width: 100%;
+        /*height: 300px;*/
+        /*background: green;*/
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    .d31,
+    .d32 {
+        /*background: yellow;*/
+        margin-right: 5px;
+        width: 195px;
+
+    }
+
+    .d33 {
+        /*background: yellow;*/
+        margin-left: 5px;
+        width: 195px;
+        height: 220px;
+    }
+
+    .box5,
+    .box6 {
+        background-color: red;
+        width: 195px;
+        height: 80px;
+    }
+
+    .box7,
+    .box8,
+    .box9,
+    .box10 {
+        width: 95px;
+        background-color: #007F0EFF;
+        margin-top: 5px;
+        height: 135px
+    }
+
+    .box11,
+    .box12,
+    .box13 {
+        width: 195px;
+        height: 70px;
+        background: blue;
+    }
+
+    .box12 {
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    </style>
+</head>
+
+<body>
+    <div class="box d">
+        <div class="top clearfix">
+            <div class="box1 left_float border_style right_margin"></div>
+            <div class="box2 left_float border_style right_margin"></div>
+            <div class="box3 left_float border_style"></div>
+        </div>
+        <div class="box4 border_style clearfix"></div>
+        <div class="d3 clearfix">
+            <div class="d31 left_float right_margin">
+                <div class="box5  border_style "></div>
+                <div class="box7 left_float border_style right_margin"></div>
+                <div class="box8 left_float border_style "></div>
+            </div>
+            <div class="d32 left_float right_margin">
+                <div class="box6  border_style "></div>
+                <div class="box9 left_float border_style right_margin"></div>
+                <div class="box10 left_float border_style "></div>
+            </div>
+            <div class="d33 left_float">
+                <div class="box11 border_style"></div>
+                <div class="box12 border_style"></div>
+                <div class="box13 border_style"></div>
+            </div>
+        </div>
+        <div class="bottom border_style"></div>
+    </div>
+</body>
+
+</html>

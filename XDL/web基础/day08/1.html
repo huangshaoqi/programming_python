@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <script src="./../js/jquery.js">
+    </script>
+</head>
+
+<body>
+    <div class="div1"></div>
+    <script>
+    $('.div1').html("<h1>好了</h1>");
+    $(".div1").click(function() {
+        $(this).css("color", "red");
+        $(this).css({width:"100px",height:"100px",background:"green"});
+    });
+    </script>
+</body>
+
+</html>
